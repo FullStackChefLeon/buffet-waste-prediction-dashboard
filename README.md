@@ -1,5 +1,19 @@
 # Buffet Food Waste Prediction & Production Planning Dashboard
 
+
+## Dashboard Preview
+
+### Overview
+![Dashboard Overview](reports/screenshots/dashboard_overview.png)
+
+### Waste Analysis
+![Waste Analysis](reports/screenshots/waste_analysis.png)
+
+### High Waste Risk Prediction
+![Prediction Demo](reports/screenshots/prediction_demo.png)
+
+---
+
 ## 1. Project Overview
 
 This project demonstrates how data science and machine learning can support buffet production planning and food waste reduction in hotel kitchen operations.
