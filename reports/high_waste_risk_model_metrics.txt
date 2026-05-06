@@ -1,0 +1,19 @@
+High Waste Risk Binary Classification Model
+===========================================
+
+Threshold: 0.45
+Accuracy: 0.6800
+Precision: 0.5122
+Recall: 0.6364
+F1-score: 0.5676
+ROC-AUC: 0.7363
+
+Classification Report:
+                     precision    recall  f1-score   support
+
+Not High Waste Risk       0.80      0.70      0.75        67
+    High Waste Risk       0.51      0.64      0.57        33
+
+           accuracy                           0.68       100
+          macro avg       0.65      0.67      0.66       100
+       weighted avg       0.70      0.68      0.69       100

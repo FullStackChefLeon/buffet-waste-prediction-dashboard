@@ -1,0 +1,501 @@
+date,weekday,meal_period,dish_name,dish_category,kitchen_section,estimated_guests,actual_guests,event_type,occupancy_rate,weather,prepared_qty,leftover_qty,leftover_ratio,service_time_remaining,refill_count,waste_level,possible_reason,recommended_action
+2025-10-31,Friday,Dinner,Fried Noodles,staple,Hot Kitchen,86,87,normal,0.52,sunny,3.4,0.8,0.24,15,3,Medium,Demand slowed near the end,Use smaller refill batch
+2025-10-09,Thursday,Breakfast,Fruit Platter,dessert,Cold Dishes,116,107,group_tour,0.72,rainy,5.2,1.1,0.21,60,1,Medium,Demand slowed near the end,Reduce final refill quantity
+2025-12-28,Sunday,Breakfast,Steamed Dumplings,pastry,Chinese Pastry,214,183,normal,0.87,cloudy,8.2,0.6,0.07,60,0,Low,Regular consumption,Maintain current quantity
+2025-12-17,Wednesday,Dinner,Braised Pork,meat,Hot Kitchen,112,113,banquet,0.74,cloudy,6.2,1.1,0.18,15,1,Medium,Demand slowed near the end,Reduce final refill quantity
+2026-01-27,Tuesday,Lunch,Braised Pork,meat,Hot Kitchen,128,131,normal,0.55,cloudy,5.6,2.1,0.38,90,1,High,Low guest demand,Reduce initial quantity
+2026-01-08,Thursday,Dinner,Congee Side Toppings,side dish,Cold / Prep,74,62,group_tour,0.79,sunny,2.9,1.2,0.41,15,2,High,Refilled too late in service,Avoid final refill and reduce next initial quantity
+2025-12-22,Monday,Dinner,Stir-fried Vegetables,vegetable,Hot Kitchen,127,102,normal,0.68,rainy,3.3,1.2,0.36,60,4,High,Low guest demand,Reduce initial quantity
+2026-01-13,Tuesday,Breakfast,Roasted Chicken,meat,Hot Kitchen,119,130,wedding,0.7,sunny,7.6,0.5,0.07,90,3,Low,Regular consumption,Maintain current quantity
+2026-01-08,Thursday,Lunch,Chinese Pastry Assortment,pastry,Chinese Pastry,62,63,normal,0.88,rainy,3.4,0.3,0.09,45,2,Low,Regular consumption,Maintain current quantity
+2026-01-22,Thursday,Lunch,Cold Cucumber Salad,cold dish,Cold Dishes,127,144,normal,0.89,rainy,5.1,2.1,0.41,45,0,High,Low guest demand,Reduce initial quantity
+2025-11-22,Saturday,Lunch,Cold Cucumber Salad,cold dish,Cold Dishes,195,217,group_tour,0.93,rainy,8.1,3.7,0.46,45,0,High,Overproduction,Reduce initial quantity
+2025-12-20,Saturday,Breakfast,Stir-fried Vegetables,vegetable,Hot Kitchen,81,84,normal,0.92,rainy,3.3,0.7,0.21,30,4,Medium,Demand slowed near the end,Use smaller refill batch
+2026-02-20,Friday,Lunch,Cold Cucumber Salad,cold dish,Cold Dishes,114,127,normal,0.66,rainy,4.9,2.4,0.49,60,2,High,Low guest demand,Reduce initial quantity
+2026-01-23,Friday,Lunch,Fruit Platter,dessert,Cold Dishes,65,64,normal,0.48,sunny,2.2,0.8,0.36,15,0,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-10-21,Tuesday,Breakfast,Fruit Platter,dessert,Cold Dishes,93,96,normal,0.56,cloudy,3.0,1.3,0.43,60,1,High,Low guest demand,Reduce initial quantity
+2026-01-21,Wednesday,Lunch,Roasted Chicken,meat,Hot Kitchen,85,65,normal,0.48,rainy,3.5,0.8,0.23,30,0,Medium,Demand slowed near the end,Reduce final refill quantity
+2025-11-07,Friday,Breakfast,Steamed Fish,seafood,Hot Kitchen,79,73,normal,0.89,sunny,3.4,1.2,0.35,90,0,Medium,Overproduction,Reduce final refill quantity
+2025-10-26,Sunday,Breakfast,Stir-fried Vegetables,vegetable,Hot Kitchen,162,179,normal,0.56,cloudy,5.4,2.7,0.5,45,3,High,Low guest demand,Reduce initial quantity
+2025-12-15,Monday,Dinner,Steamed Fish,seafood,Hot Kitchen,233,192,wedding,0.78,rainy,10.5,3.9,0.37,15,4,High,Over-refilled during service,Avoid final refill and reduce next initial quantity
+2026-03-01,Sunday,Dinner,Fried Rice,staple,Hot Kitchen,230,250,banquet,0.53,rainy,15.0,1.4,0.09,60,1,Low,Regular consumption,Maintain current quantity
+2026-02-25,Wednesday,Dinner,Stir-fried Vegetables,vegetable,Hot Kitchen,209,204,normal,0.49,rainy,6.8,2.2,0.32,30,2,Medium,Refilled too late in service,Use smaller refill batch
+2026-01-28,Wednesday,Breakfast,Roasted Chicken,meat,Hot Kitchen,85,66,normal,0.95,rainy,3.9,1.8,0.46,15,2,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-11-12,Wednesday,Dinner,Fried Rice,staple,Hot Kitchen,195,146,group_tour,0.94,rainy,6.4,0.9,0.14,30,0,Low,Regular consumption,Maintain current quantity
+2025-10-30,Thursday,Dinner,Mixed Seafood,seafood,Hot Kitchen,147,122,normal,0.75,cloudy,5.7,2.1,0.37,45,3,High,Low guest demand,Reduce initial quantity
+2025-10-16,Thursday,Dinner,Steamed Dumplings,pastry,Chinese Pastry,145,153,normal,0.47,cloudy,4.4,1.8,0.41,90,3,High,Low guest demand,Reduce initial quantity
+2025-10-31,Friday,Dinner,Steamed Dumplings,pastry,Chinese Pastry,254,205,banquet,0.47,rainy,7.9,1.0,0.13,45,0,Low,Regular consumption,Maintain current quantity
+2025-12-05,Friday,Breakfast,Braised Pork,meat,Hot Kitchen,164,186,normal,0.89,rainy,10.1,4.0,0.4,30,1,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-11-17,Monday,Breakfast,Steamed Fish,seafood,Hot Kitchen,165,176,normal,0.84,cloudy,8.8,3.4,0.39,30,2,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-10-12,Sunday,Breakfast,Fried Rice,staple,Hot Kitchen,118,99,normal,0.62,cloudy,4.8,2.3,0.48,15,2,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2026-02-10,Tuesday,Dinner,Steamed Fish,seafood,Hot Kitchen,111,122,wedding,0.62,rainy,7.7,1.5,0.19,15,2,Medium,Demand slowed near the end,Use smaller refill batch
+2025-12-22,Monday,Dinner,Steamed Fish,seafood,Hot Kitchen,261,222,wedding,0.64,sunny,9.2,2.2,0.24,30,4,Medium,Demand slowed near the end,Use smaller refill batch
+2025-12-26,Friday,Lunch,Chinese Pastry Assortment,pastry,Chinese Pastry,136,129,group_tour,0.81,sunny,3.8,0.4,0.11,90,2,Low,Regular consumption,Maintain current quantity
+2026-01-18,Sunday,Lunch,Braised Pork,meat,Hot Kitchen,137,125,group_tour,0.76,sunny,5.5,1.8,0.33,60,1,Medium,Overproduction,Reduce final refill quantity
+2026-03-07,Saturday,Lunch,Braised Pork,meat,Hot Kitchen,190,178,normal,0.79,cloudy,8.8,1.3,0.15,15,1,Low,Regular consumption,Maintain current quantity
+2026-03-10,Tuesday,Breakfast,Roasted Chicken,meat,Hot Kitchen,117,125,group_tour,0.79,sunny,7.1,2.5,0.35,90,3,Medium,Overproduction,Use smaller refill batch
+2025-10-21,Tuesday,Lunch,Fried Rice,staple,Hot Kitchen,251,228,banquet,0.55,rainy,15.9,2.0,0.13,60,0,Low,Regular consumption,Maintain current quantity
+2026-02-12,Thursday,Breakfast,Fried Rice,staple,Hot Kitchen,178,181,normal,0.68,sunny,8.1,2.7,0.33,90,3,Medium,Overproduction,Use smaller refill batch
+2026-02-09,Monday,Dinner,Steamed Fish,seafood,Hot Kitchen,181,168,normal,0.82,sunny,8.9,2.0,0.22,90,2,Medium,Demand slowed near the end,Use smaller refill batch
+2025-12-03,Wednesday,Lunch,Congee Side Toppings,side dish,Cold / Prep,145,127,normal,0.57,cloudy,4.0,1.8,0.45,60,1,High,Low guest demand,Reduce initial quantity
+2026-01-15,Thursday,Dinner,Roasted Chicken,meat,Hot Kitchen,167,151,normal,0.55,sunny,8.2,1.9,0.23,90,0,Medium,Demand slowed near the end,Reduce final refill quantity
+2026-01-01,Thursday,Lunch,Congee Side Toppings,side dish,Cold / Prep,257,242,banquet,0.72,cloudy,10.7,4.1,0.38,45,3,High,Over-refilled during service,Reduce initial quantity
+2025-11-14,Friday,Breakfast,Fried Rice,staple,Hot Kitchen,193,151,wedding,0.46,rainy,9.4,1.3,0.14,15,1,Low,Regular consumption,Maintain current quantity
+2025-12-25,Thursday,Lunch,Stir-fried Vegetables,vegetable,Hot Kitchen,167,142,normal,0.59,cloudy,4.6,2.8,0.61,15,4,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-10-13,Monday,Breakfast,Fried Noodles,staple,Hot Kitchen,121,96,normal,0.76,sunny,4.9,1.4,0.29,60,1,Medium,Overproduction,Reduce final refill quantity
+2026-01-05,Monday,Dinner,Cold Cucumber Salad,cold dish,Cold Dishes,101,114,normal,0.81,rainy,4.2,1.7,0.4,90,2,High,Low guest demand,Reduce initial quantity
+2026-01-12,Monday,Breakfast,Mixed Seafood,seafood,Hot Kitchen,122,96,normal,0.87,rainy,5.1,2.3,0.45,15,4,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-10-13,Monday,Dinner,Roasted Chicken,meat,Hot Kitchen,147,110,normal,0.48,cloudy,6.2,2.5,0.4,45,3,High,Low guest demand,Reduce initial quantity
+2025-11-11,Tuesday,Breakfast,Steamed Fish,seafood,Hot Kitchen,197,208,group_tour,0.59,rainy,12.6,2.1,0.17,45,4,Medium,Demand slowed near the end,Use smaller refill batch
+2025-12-04,Thursday,Lunch,Steamed Dumplings,pastry,Chinese Pastry,283,250,banquet,0.83,sunny,8.0,2.1,0.26,30,3,Medium,Refilled too late in service,Use smaller refill batch
+2025-12-13,Saturday,Dinner,Chinese Pastry Assortment,pastry,Chinese Pastry,148,125,banquet,0.46,rainy,4.8,1.3,0.27,60,1,Medium,Overproduction,Reduce final refill quantity
+2026-02-05,Thursday,Breakfast,Fried Rice,staple,Hot Kitchen,122,106,normal,0.65,sunny,5.5,1.1,0.2,45,4,Medium,Demand slowed near the end,Use smaller refill batch
+2026-02-20,Friday,Lunch,Roasted Chicken,meat,Hot Kitchen,119,94,group_tour,0.6,cloudy,5.3,1.4,0.26,30,4,Medium,Refilled too late in service,Use smaller refill batch
+2025-12-12,Friday,Dinner,Mixed Seafood,seafood,Hot Kitchen,139,120,wedding,0.75,rainy,6.6,2.1,0.32,30,4,Medium,Refilled too late in service,Use smaller refill batch
+2026-02-21,Saturday,Dinner,Congee Side Toppings,side dish,Cold / Prep,228,250,banquet,0.88,rainy,9.4,1.3,0.14,45,3,Low,Regular consumption,Maintain current quantity
+2026-02-02,Monday,Breakfast,Steamed Dumplings,pastry,Chinese Pastry,73,59,normal,0.74,sunny,2.3,0.2,0.09,30,0,Low,Regular consumption,Maintain current quantity
+2026-01-17,Saturday,Dinner,Chinese Pastry Assortment,pastry,Chinese Pastry,157,146,group_tour,0.84,sunny,6.5,1.6,0.25,45,3,Medium,Demand slowed near the end,Use smaller refill batch
+2025-10-18,Saturday,Dinner,Chinese Pastry Assortment,pastry,Chinese Pastry,127,128,normal,0.76,sunny,4.4,0.2,0.05,30,0,Low,Regular consumption,Maintain current quantity
+2026-01-26,Monday,Dinner,Mixed Seafood,seafood,Hot Kitchen,132,136,normal,0.57,sunny,8.0,3.4,0.42,90,2,High,Low guest demand,Reduce initial quantity
+2026-01-19,Monday,Dinner,Steamed Dumplings,pastry,Chinese Pastry,96,74,normal,0.9,sunny,2.8,0.6,0.21,45,4,Medium,Demand slowed near the end,Use smaller refill batch
+2026-01-30,Friday,Lunch,Mixed Seafood,seafood,Hot Kitchen,186,172,group_tour,0.7,cloudy,9.9,1.4,0.14,90,2,Low,Regular consumption,Maintain current quantity
+2025-10-26,Sunday,Dinner,Stir-fried Vegetables,vegetable,Hot Kitchen,65,74,group_tour,0.74,rainy,2.1,0.5,0.24,30,0,Medium,Demand slowed near the end,Reduce final refill quantity
+2026-01-24,Saturday,Breakfast,Congee Side Toppings,side dish,Cold / Prep,226,211,wedding,0.77,cloudy,7.9,2.0,0.25,30,0,Medium,Demand slowed near the end,Reduce final refill quantity
+2025-12-15,Monday,Lunch,Braised Pork,meat,Hot Kitchen,82,71,group_tour,0.47,rainy,4.8,1.6,0.33,90,3,Medium,Overproduction,Use smaller refill batch
+2025-10-03,Friday,Dinner,Braised Pork,meat,Hot Kitchen,152,151,normal,0.54,sunny,8.0,1.7,0.21,30,0,Medium,Demand slowed near the end,Reduce final refill quantity
+2025-12-15,Monday,Dinner,Fried Rice,staple,Hot Kitchen,215,229,normal,0.94,sunny,10.6,2.0,0.19,90,0,Medium,Demand slowed near the end,Reduce final refill quantity
+2025-11-29,Saturday,Lunch,Steamed Dumplings,pastry,Chinese Pastry,254,242,banquet,0.87,rainy,11.6,3.2,0.28,30,3,Medium,Refilled too late in service,Use smaller refill batch
+2025-11-20,Thursday,Dinner,Chinese Pastry Assortment,pastry,Chinese Pastry,130,137,group_tour,0.88,sunny,3.7,1.2,0.32,45,4,Medium,Overproduction,Use smaller refill batch
+2025-12-14,Sunday,Lunch,Mixed Seafood,seafood,Hot Kitchen,185,202,group_tour,0.95,rainy,11.2,3.6,0.32,90,2,Medium,Overproduction,Use smaller refill batch
+2026-01-07,Wednesday,Lunch,Fried Rice,staple,Hot Kitchen,217,237,banquet,0.57,rainy,12.7,2.4,0.19,60,3,Medium,Demand slowed near the end,Use smaller refill batch
+2025-11-10,Monday,Breakfast,Fried Rice,staple,Hot Kitchen,85,93,normal,0.62,rainy,5.2,2.1,0.4,15,3,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-11-11,Tuesday,Lunch,Steamed Dumplings,pastry,Chinese Pastry,161,162,group_tour,0.62,cloudy,5.9,2.3,0.39,60,4,High,Over-refilled during service,Reduce initial quantity
+2026-03-12,Thursday,Lunch,Mixed Seafood,seafood,Hot Kitchen,186,213,banquet,0.76,sunny,10.1,2.1,0.21,15,0,Medium,Demand slowed near the end,Reduce final refill quantity
+2025-12-18,Thursday,Breakfast,Fried Noodles,staple,Hot Kitchen,155,142,normal,0.6,sunny,8.6,1.0,0.12,30,1,Low,Regular consumption,Maintain current quantity
+2026-03-08,Sunday,Dinner,Steamed Fish,seafood,Hot Kitchen,96,80,group_tour,0.91,cloudy,4.0,1.5,0.38,60,0,High,Overproduction,Reduce initial quantity
+2026-02-19,Thursday,Breakfast,Cold Cucumber Salad,cold dish,Cold Dishes,136,136,normal,0.94,cloudy,4.9,2.9,0.59,30,2,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2026-01-08,Thursday,Lunch,Chinese Pastry Assortment,pastry,Chinese Pastry,161,138,normal,0.6,rainy,5.2,1.6,0.31,90,0,Medium,Overproduction,Reduce final refill quantity
+2025-12-15,Monday,Dinner,Stir-fried Vegetables,vegetable,Hot Kitchen,218,185,group_tour,0.77,sunny,6.7,2.5,0.37,15,1,High,Refilled too late in service,Avoid final refill and reduce next initial quantity
+2025-10-13,Monday,Lunch,Congee Side Toppings,side dish,Cold / Prep,83,92,normal,0.82,cloudy,3.8,1.6,0.42,30,1,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2026-01-04,Sunday,Dinner,Fruit Platter,dessert,Cold Dishes,250,262,banquet,0.58,sunny,7.8,2.8,0.36,30,0,High,Refilled too late in service,Avoid final refill and reduce next initial quantity
+2026-01-12,Monday,Lunch,Fruit Platter,dessert,Cold Dishes,197,157,normal,0.46,cloudy,6.8,2.4,0.35,90,2,Medium,Overproduction,Use smaller refill batch
+2025-12-01,Monday,Breakfast,Fried Rice,staple,Hot Kitchen,216,181,normal,0.61,rainy,13.8,1.3,0.09,60,2,Low,Regular consumption,Maintain current quantity
+2025-10-14,Tuesday,Lunch,Fried Noodles,staple,Hot Kitchen,244,220,wedding,0.5,sunny,14.5,3.7,0.26,60,4,Medium,Overproduction,Use smaller refill batch
+2025-11-11,Tuesday,Dinner,Steamed Fish,seafood,Hot Kitchen,131,99,normal,0.76,cloudy,5.6,0.5,0.09,45,1,Low,Regular consumption,Maintain current quantity
+2026-01-05,Monday,Dinner,Fruit Platter,dessert,Cold Dishes,91,102,normal,0.59,cloudy,2.4,1.2,0.5,90,1,High,Low guest demand,Reduce initial quantity
+2025-11-04,Tuesday,Breakfast,Chinese Pastry Assortment,pastry,Chinese Pastry,115,123,normal,0.55,rainy,5.8,2.7,0.47,15,4,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2026-02-18,Wednesday,Breakfast,Congee Side Toppings,side dish,Cold / Prep,151,160,normal,0.52,sunny,6.6,1.7,0.26,45,1,Medium,Overproduction,Reduce final refill quantity
+2025-10-19,Sunday,Lunch,Fried Rice,staple,Hot Kitchen,175,166,group_tour,0.75,rainy,6.3,1.3,0.21,45,4,Medium,Demand slowed near the end,Use smaller refill batch
+2025-10-10,Friday,Lunch,Fried Noodles,staple,Hot Kitchen,185,191,group_tour,0.79,cloudy,12.0,1.2,0.1,90,2,Low,Regular consumption,Maintain current quantity
+2025-11-04,Tuesday,Dinner,Congee Side Toppings,side dish,Cold / Prep,157,180,normal,0.81,rainy,6.8,1.2,0.18,60,4,Medium,Demand slowed near the end,Use smaller refill batch
+2026-02-21,Saturday,Breakfast,Mixed Seafood,seafood,Hot Kitchen,176,160,normal,0.66,sunny,7.3,1.3,0.18,45,2,Medium,Demand slowed near the end,Use smaller refill batch
+2025-11-11,Tuesday,Lunch,Braised Pork,meat,Hot Kitchen,84,88,normal,0.5,sunny,4.5,2.2,0.49,90,0,High,Low guest demand,Reduce initial quantity
+2025-11-03,Monday,Lunch,Steamed Fish,seafood,Hot Kitchen,139,137,banquet,0.88,cloudy,8.2,2.3,0.28,30,1,Medium,Refilled too late in service,Reduce final refill quantity
+2025-11-29,Saturday,Lunch,Steamed Dumplings,pastry,Chinese Pastry,131,128,group_tour,0.51,cloudy,4.7,1.3,0.28,90,4,Medium,Overproduction,Use smaller refill batch
+2026-02-22,Sunday,Dinner,Fried Noodles,staple,Hot Kitchen,170,175,banquet,0.58,rainy,10.0,3.5,0.35,30,0,Medium,Refilled too late in service,Reduce final refill quantity
+2026-02-24,Tuesday,Lunch,Braised Pork,meat,Hot Kitchen,67,52,normal,0.77,rainy,2.7,0.3,0.11,45,3,Low,Regular consumption,Maintain current quantity
+2025-12-21,Sunday,Lunch,Mixed Seafood,seafood,Hot Kitchen,73,59,group_tour,0.75,rainy,2.4,0.5,0.21,45,0,Medium,Demand slowed near the end,Reduce final refill quantity
+2026-01-19,Monday,Dinner,Fried Rice,staple,Hot Kitchen,191,151,normal,0.56,cloudy,7.9,2.5,0.32,60,4,Medium,Overproduction,Use smaller refill batch
+2025-11-28,Friday,Dinner,Steamed Fish,seafood,Hot Kitchen,114,120,normal,0.6,sunny,5.4,1.2,0.22,15,0,Medium,Demand slowed near the end,Reduce final refill quantity
+2026-01-21,Wednesday,Breakfast,Cold Cucumber Salad,cold dish,Cold Dishes,203,219,normal,0.57,rainy,5.8,1.8,0.31,60,0,Medium,Overproduction,Reduce final refill quantity
+2026-02-27,Friday,Dinner,Steamed Fish,seafood,Hot Kitchen,89,81,normal,0.66,rainy,3.2,1.1,0.34,60,4,Medium,Overproduction,Use smaller refill batch
+2026-01-03,Saturday,Lunch,Steamed Dumplings,pastry,Chinese Pastry,162,155,group_tour,0.67,sunny,5.1,1.2,0.24,30,2,Medium,Demand slowed near the end,Use smaller refill batch
+2026-02-10,Tuesday,Breakfast,Braised Pork,meat,Hot Kitchen,149,132,normal,0.9,sunny,6.1,0.5,0.08,30,1,Low,Regular consumption,Maintain current quantity
+2025-12-07,Sunday,Breakfast,Stir-fried Vegetables,vegetable,Hot Kitchen,220,208,normal,0.49,rainy,7.5,3.2,0.43,90,3,High,Low guest demand,Reduce initial quantity
+2025-12-24,Wednesday,Lunch,Braised Pork,meat,Hot Kitchen,137,146,normal,0.68,sunny,7.2,1.5,0.21,45,0,Medium,Demand slowed near the end,Reduce final refill quantity
+2025-10-12,Sunday,Lunch,Fried Noodles,staple,Hot Kitchen,83,82,group_tour,0.77,sunny,4.4,1.6,0.36,15,4,High,Over-refilled during service,Avoid final refill and reduce next initial quantity
+2025-11-20,Thursday,Dinner,Roasted Chicken,meat,Hot Kitchen,175,138,normal,0.93,sunny,5.9,1.6,0.27,90,0,Medium,Overproduction,Reduce final refill quantity
+2025-10-13,Monday,Dinner,Stir-fried Vegetables,vegetable,Hot Kitchen,216,175,normal,0.71,cloudy,5.8,1.7,0.29,45,3,Medium,Overproduction,Use smaller refill batch
+2025-10-16,Thursday,Dinner,Braised Pork,meat,Hot Kitchen,158,136,normal,0.5,cloudy,6.9,2.5,0.36,30,4,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-12-31,Wednesday,Dinner,Congee Side Toppings,side dish,Cold / Prep,81,70,group_tour,0.51,cloudy,3.4,0.6,0.18,90,1,Medium,Demand slowed near the end,Reduce final refill quantity
+2026-02-10,Tuesday,Breakfast,Roasted Chicken,meat,Hot Kitchen,147,165,normal,0.93,sunny,8.2,0.6,0.07,30,1,Low,Regular consumption,Maintain current quantity
+2025-10-28,Tuesday,Dinner,Fruit Platter,dessert,Cold Dishes,146,160,group_tour,0.47,rainy,5.7,1.2,0.21,30,1,Medium,Demand slowed near the end,Reduce final refill quantity
+2026-03-11,Wednesday,Dinner,Cold Cucumber Salad,cold dish,Cold Dishes,120,136,normal,0.63,cloudy,5.8,2.5,0.43,30,3,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2026-01-31,Saturday,Lunch,Stir-fried Vegetables,vegetable,Hot Kitchen,178,188,group_tour,0.94,rainy,5.9,2.9,0.49,30,3,High,Over-refilled during service,Avoid final refill and reduce next initial quantity
+2025-11-07,Friday,Breakfast,Congee Side Toppings,side dish,Cold / Prep,86,88,normal,0.73,cloudy,2.8,0.7,0.25,30,0,Medium,Demand slowed near the end,Reduce final refill quantity
+2025-11-09,Sunday,Breakfast,Steamed Fish,seafood,Hot Kitchen,182,166,banquet,0.86,sunny,9.1,2.1,0.23,15,3,Medium,Demand slowed near the end,Use smaller refill batch
+2025-10-28,Tuesday,Dinner,Mixed Seafood,seafood,Hot Kitchen,133,148,normal,0.52,sunny,9.0,3.7,0.41,60,3,High,Low guest demand,Reduce initial quantity
+2025-10-07,Tuesday,Breakfast,Congee Side Toppings,side dish,Cold / Prep,215,206,group_tour,0.92,rainy,9.0,2.4,0.27,15,2,Medium,Refilled too late in service,Use smaller refill batch
+2026-01-28,Wednesday,Breakfast,Steamed Dumplings,pastry,Chinese Pastry,64,64,group_tour,0.75,cloudy,2.5,0.1,0.04,60,2,Low,Regular consumption,Maintain current quantity
+2026-01-01,Thursday,Dinner,Stir-fried Vegetables,vegetable,Hot Kitchen,194,221,normal,0.78,rainy,10.1,2.5,0.25,90,4,Medium,Demand slowed near the end,Use smaller refill batch
+2026-01-10,Saturday,Breakfast,Fried Rice,staple,Hot Kitchen,64,57,normal,0.58,cloudy,3.6,1.4,0.39,90,0,High,Low guest demand,Reduce initial quantity
+2025-10-14,Tuesday,Dinner,Roasted Chicken,meat,Hot Kitchen,178,203,normal,0.54,rainy,10.0,4.4,0.44,15,1,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-10-12,Sunday,Breakfast,Congee Side Toppings,side dish,Cold / Prep,140,157,normal,0.89,sunny,7.8,1.8,0.23,60,4,Medium,Demand slowed near the end,Use smaller refill batch
+2025-11-20,Thursday,Lunch,Congee Side Toppings,side dish,Cold / Prep,208,166,banquet,0.88,sunny,8.5,1.8,0.21,60,3,Medium,Demand slowed near the end,Use smaller refill batch
+2026-02-07,Saturday,Dinner,Roasted Chicken,meat,Hot Kitchen,80,73,normal,0.81,sunny,2.9,0.2,0.07,45,2,Low,Regular consumption,Maintain current quantity
+2025-12-25,Thursday,Lunch,Braised Pork,meat,Hot Kitchen,102,104,normal,0.81,rainy,5.2,2.1,0.4,90,2,High,Low guest demand,Reduce initial quantity
+2025-12-12,Friday,Breakfast,Braised Pork,meat,Hot Kitchen,191,204,normal,0.65,rainy,11.6,3.3,0.28,90,1,Medium,Overproduction,Reduce final refill quantity
+2026-01-23,Friday,Breakfast,Fried Noodles,staple,Hot Kitchen,158,178,normal,0.63,rainy,11.2,2.0,0.18,45,3,Medium,Demand slowed near the end,Use smaller refill batch
+2025-10-22,Wednesday,Breakfast,Chinese Pastry Assortment,pastry,Chinese Pastry,131,111,normal,0.61,cloudy,5.5,1.0,0.18,90,3,Medium,Demand slowed near the end,Use smaller refill batch
+2026-02-23,Monday,Lunch,Steamed Dumplings,pastry,Chinese Pastry,216,186,group_tour,0.67,rainy,5.4,1.9,0.35,30,0,Medium,Refilled too late in service,Reduce final refill quantity
+2026-01-26,Monday,Dinner,Cold Cucumber Salad,cold dish,Cold Dishes,141,143,normal,0.86,sunny,5.3,2.3,0.43,45,2,High,Low guest demand,Reduce initial quantity
+2025-11-16,Sunday,Dinner,Roasted Chicken,meat,Hot Kitchen,120,127,normal,0.85,sunny,9.2,3.0,0.33,60,2,Medium,Overproduction,Use smaller refill batch
+2026-02-21,Saturday,Dinner,Cold Cucumber Salad,cold dish,Cold Dishes,279,255,banquet,0.6,sunny,11.0,3.7,0.34,45,1,Medium,Overproduction,Reduce final refill quantity
+2026-02-12,Thursday,Breakfast,Roasted Chicken,meat,Hot Kitchen,152,140,banquet,0.77,rainy,5.4,0.6,0.11,90,0,Low,Regular consumption,Maintain current quantity
+2025-11-14,Friday,Lunch,Cold Cucumber Salad,cold dish,Cold Dishes,258,280,banquet,0.62,sunny,13.6,2.0,0.15,45,4,Low,Regular consumption,Maintain current quantity
+2026-02-16,Monday,Dinner,Steamed Dumplings,pastry,Chinese Pastry,99,81,normal,0.92,rainy,3.3,0.2,0.06,90,2,Low,Regular consumption,Maintain current quantity
+2025-10-10,Friday,Breakfast,Steamed Dumplings,pastry,Chinese Pastry,196,195,banquet,0.58,rainy,11.1,3.0,0.27,45,4,Medium,Overproduction,Use smaller refill batch
+2025-12-19,Friday,Breakfast,Fried Rice,staple,Hot Kitchen,176,137,group_tour,0.65,rainy,9.3,1.1,0.12,60,3,Low,Regular consumption,Maintain current quantity
+2026-03-07,Saturday,Lunch,Cold Cucumber Salad,cold dish,Cold Dishes,229,183,banquet,0.82,cloudy,8.0,2.7,0.34,30,2,Medium,Refilled too late in service,Use smaller refill batch
+2025-10-27,Monday,Lunch,Fried Noodles,staple,Hot Kitchen,171,192,banquet,0.66,rainy,8.5,3.4,0.4,60,1,High,Overproduction,Reduce initial quantity
+2026-01-30,Friday,Lunch,Fried Rice,staple,Hot Kitchen,189,176,normal,0.92,sunny,11.2,1.7,0.15,15,0,Low,Regular consumption,Maintain current quantity
+2026-03-04,Wednesday,Dinner,Braised Pork,meat,Hot Kitchen,87,80,normal,0.45,rainy,3.9,0.5,0.13,45,3,Low,Regular consumption,Maintain current quantity
+2026-02-23,Monday,Lunch,Stir-fried Vegetables,vegetable,Hot Kitchen,175,184,normal,0.64,sunny,9.4,1.5,0.16,15,4,Medium,Demand slowed near the end,Use smaller refill batch
+2026-01-06,Tuesday,Dinner,Roasted Chicken,meat,Hot Kitchen,271,257,banquet,0.55,sunny,16.0,3.7,0.23,60,2,Medium,Demand slowed near the end,Use smaller refill batch
+2025-11-10,Monday,Dinner,Chinese Pastry Assortment,pastry,Chinese Pastry,160,183,normal,0.61,rainy,5.1,1.7,0.33,90,2,Medium,Overproduction,Use smaller refill batch
+2026-02-16,Monday,Dinner,Fried Rice,staple,Hot Kitchen,154,135,normal,0.86,cloudy,8.9,3.1,0.35,15,2,Medium,Refilled too late in service,Use smaller refill batch
+2026-02-28,Saturday,Breakfast,Chinese Pastry Assortment,pastry,Chinese Pastry,194,194,group_tour,0.69,rainy,7.8,0.5,0.06,30,1,Low,Regular consumption,Maintain current quantity
+2025-10-31,Friday,Breakfast,Stir-fried Vegetables,vegetable,Hot Kitchen,112,102,normal,0.53,cloudy,4.0,1.4,0.35,30,0,Medium,Refilled too late in service,Reduce final refill quantity
+2026-02-02,Monday,Lunch,Fruit Platter,dessert,Cold Dishes,196,173,normal,0.68,sunny,7.7,2.6,0.34,90,2,Medium,Overproduction,Use smaller refill batch
+2025-12-13,Saturday,Lunch,Fruit Platter,dessert,Cold Dishes,113,115,normal,0.84,cloudy,4.0,0.9,0.23,45,4,Medium,Demand slowed near the end,Use smaller refill batch
+2026-02-19,Thursday,Lunch,Steamed Fish,seafood,Hot Kitchen,133,150,group_tour,0.6,sunny,11.6,1.4,0.12,60,2,Low,Regular consumption,Maintain current quantity
+2026-02-17,Tuesday,Dinner,Congee Side Toppings,side dish,Cold / Prep,210,177,group_tour,0.5,sunny,11.0,1.4,0.13,30,1,Low,Regular consumption,Maintain current quantity
+2026-01-31,Saturday,Dinner,Steamed Dumplings,pastry,Chinese Pastry,100,91,group_tour,0.93,sunny,3.2,1.3,0.41,30,3,High,Over-refilled during service,Avoid final refill and reduce next initial quantity
+2025-12-15,Monday,Breakfast,Braised Pork,meat,Hot Kitchen,217,226,banquet,0.78,sunny,8.9,3.2,0.36,60,1,High,Overproduction,Reduce initial quantity
+2025-11-17,Monday,Lunch,Fried Noodles,staple,Hot Kitchen,134,147,group_tour,0.92,sunny,10.8,1.6,0.15,45,0,Low,Regular consumption,Maintain current quantity
+2026-02-19,Thursday,Lunch,Fruit Platter,dessert,Cold Dishes,243,200,banquet,0.88,sunny,7.0,2.3,0.33,45,3,Medium,Overproduction,Use smaller refill batch
+2025-12-28,Sunday,Dinner,Congee Side Toppings,side dish,Cold / Prep,163,176,group_tour,0.54,sunny,5.4,2.5,0.46,30,0,High,Refilled too late in service,Avoid final refill and reduce next initial quantity
+2025-12-05,Friday,Lunch,Fried Noodles,staple,Hot Kitchen,144,125,normal,0.83,cloudy,5.2,0.7,0.13,30,2,Low,Regular consumption,Maintain current quantity
+2025-12-20,Saturday,Lunch,Cold Cucumber Salad,cold dish,Cold Dishes,90,90,group_tour,0.83,rainy,2.7,1.2,0.44,30,1,High,Refilled too late in service,Avoid final refill and reduce next initial quantity
+2026-01-27,Tuesday,Dinner,Mixed Seafood,seafood,Hot Kitchen,180,189,normal,0.72,rainy,9.8,3.5,0.36,90,1,High,Low guest demand,Reduce initial quantity
+2025-10-23,Thursday,Lunch,Fruit Platter,dessert,Cold Dishes,204,162,normal,0.49,cloudy,6.1,2.5,0.41,90,1,High,Low guest demand,Reduce initial quantity
+2026-01-24,Saturday,Dinner,Steamed Dumplings,pastry,Chinese Pastry,190,176,normal,0.69,rainy,6.3,1.6,0.25,60,3,Medium,Demand slowed near the end,Use smaller refill batch
+2026-02-23,Monday,Dinner,Fried Rice,staple,Hot Kitchen,125,134,group_tour,0.46,rainy,6.6,1.1,0.17,60,0,Medium,Demand slowed near the end,Reduce final refill quantity
+2025-10-19,Sunday,Breakfast,Fruit Platter,dessert,Cold Dishes,214,185,banquet,0.94,sunny,6.1,2.8,0.46,45,3,High,Over-refilled during service,Reduce initial quantity
+2026-01-07,Wednesday,Breakfast,Steamed Fish,seafood,Hot Kitchen,94,95,group_tour,0.89,rainy,5.0,1.2,0.24,60,4,Medium,Demand slowed near the end,Use smaller refill batch
+2025-11-29,Saturday,Breakfast,Fried Noodles,staple,Hot Kitchen,283,272,wedding,0.79,cloudy,11.7,3.7,0.32,30,2,Medium,Refilled too late in service,Use smaller refill batch
+2025-10-31,Friday,Dinner,Fried Noodles,staple,Hot Kitchen,77,60,normal,0.57,sunny,4.4,1.8,0.41,30,0,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-12-01,Monday,Breakfast,Fruit Platter,dessert,Cold Dishes,134,113,group_tour,0.52,sunny,3.5,1.5,0.43,90,4,High,Over-refilled during service,Reduce initial quantity
+2025-12-02,Tuesday,Breakfast,Congee Side Toppings,side dish,Cold / Prep,201,155,wedding,0.56,rainy,6.0,1.6,0.27,60,1,Medium,Overproduction,Reduce final refill quantity
+2025-12-30,Tuesday,Dinner,Braised Pork,meat,Hot Kitchen,166,151,normal,0.61,rainy,8.2,1.1,0.13,60,4,Low,Regular consumption,Maintain current quantity
+2025-11-29,Saturday,Dinner,Congee Side Toppings,side dish,Cold / Prep,203,185,normal,0.91,cloudy,7.8,2.0,0.26,30,3,Medium,Refilled too late in service,Use smaller refill batch
+2026-01-26,Monday,Breakfast,Roasted Chicken,meat,Hot Kitchen,156,159,normal,0.48,sunny,9.1,3.7,0.41,90,1,High,Low guest demand,Reduce initial quantity
+2026-02-02,Monday,Lunch,Stir-fried Vegetables,vegetable,Hot Kitchen,108,122,normal,0.56,sunny,6.9,3.6,0.52,30,3,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-12-03,Wednesday,Lunch,Fruit Platter,dessert,Cold Dishes,151,131,group_tour,0.68,cloudy,6.1,3.5,0.57,15,3,High,Over-refilled during service,Avoid final refill and reduce next initial quantity
+2025-12-23,Tuesday,Lunch,Stir-fried Vegetables,vegetable,Hot Kitchen,116,121,normal,0.73,sunny,5.8,1.8,0.31,90,4,Medium,Overproduction,Use smaller refill batch
+2025-12-17,Wednesday,Breakfast,Cold Cucumber Salad,cold dish,Cold Dishes,122,115,normal,0.73,cloudy,4.6,2.2,0.48,60,2,High,Low guest demand,Reduce initial quantity
+2026-02-05,Thursday,Breakfast,Fried Rice,staple,Hot Kitchen,199,188,group_tour,0.53,cloudy,8.5,0.5,0.06,90,0,Low,Regular consumption,Maintain current quantity
+2025-10-22,Wednesday,Breakfast,Braised Pork,meat,Hot Kitchen,119,92,group_tour,0.52,cloudy,5.5,0.4,0.07,45,3,Low,Regular consumption,Maintain current quantity
+2026-03-09,Monday,Dinner,Fried Rice,staple,Hot Kitchen,165,124,normal,0.72,sunny,6.2,2.3,0.37,15,2,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2026-01-21,Wednesday,Breakfast,Cold Cucumber Salad,cold dish,Cold Dishes,206,175,banquet,0.52,rainy,8.6,3.9,0.45,45,0,High,Overproduction,Reduce initial quantity
+2025-12-04,Thursday,Breakfast,Mixed Seafood,seafood,Hot Kitchen,68,53,normal,0.78,sunny,3.1,0.9,0.29,15,0,Medium,Refilled too late in service,Reduce final refill quantity
+2025-10-24,Friday,Lunch,Fried Rice,staple,Hot Kitchen,84,93,normal,0.73,cloudy,3.8,0.6,0.16,60,4,Medium,Demand slowed near the end,Use smaller refill batch
+2025-10-22,Wednesday,Lunch,Braised Pork,meat,Hot Kitchen,175,132,banquet,0.78,rainy,7.5,2.1,0.28,15,3,Medium,Refilled too late in service,Use smaller refill batch
+2026-02-25,Wednesday,Dinner,Steamed Fish,seafood,Hot Kitchen,135,128,banquet,0.64,cloudy,4.8,2.1,0.44,30,3,High,Over-refilled during service,Avoid final refill and reduce next initial quantity
+2026-03-09,Monday,Lunch,Chinese Pastry Assortment,pastry,Chinese Pastry,216,204,wedding,0.46,cloudy,9.8,4.2,0.43,30,3,High,Over-refilled during service,Avoid final refill and reduce next initial quantity
+2025-10-24,Friday,Lunch,Chinese Pastry Assortment,pastry,Chinese Pastry,128,103,group_tour,0.49,rainy,3.6,0.6,0.17,45,3,Medium,Demand slowed near the end,Use smaller refill batch
+2025-10-26,Sunday,Lunch,Fried Noodles,staple,Hot Kitchen,82,67,normal,0.5,cloudy,3.8,0.8,0.21,15,3,Medium,Demand slowed near the end,Use smaller refill batch
+2026-03-05,Thursday,Lunch,Roasted Chicken,meat,Hot Kitchen,81,84,normal,0.64,cloudy,5.1,1.2,0.24,90,1,Medium,Demand slowed near the end,Reduce final refill quantity
+2026-01-08,Thursday,Breakfast,Cold Cucumber Salad,cold dish,Cold Dishes,76,62,normal,0.7,cloudy,2.5,0.5,0.2,45,0,Medium,Demand slowed near the end,Reduce final refill quantity
+2026-03-12,Thursday,Dinner,Fried Rice,staple,Hot Kitchen,137,103,normal,0.5,cloudy,6.5,1.9,0.29,45,3,Medium,Overproduction,Use smaller refill batch
+2026-03-04,Wednesday,Lunch,Cold Cucumber Salad,cold dish,Cold Dishes,140,114,normal,0.55,rainy,4.3,2.0,0.47,90,3,High,Low guest demand,Reduce initial quantity
+2026-01-11,Sunday,Breakfast,Roasted Chicken,meat,Hot Kitchen,252,257,banquet,0.75,sunny,15.5,4.5,0.29,30,3,Medium,Refilled too late in service,Use smaller refill batch
+2025-10-20,Monday,Dinner,Steamed Fish,seafood,Hot Kitchen,124,125,normal,0.6,rainy,6.7,2.7,0.4,60,0,High,Low guest demand,Reduce initial quantity
+2026-02-02,Monday,Lunch,Chinese Pastry Assortment,pastry,Chinese Pastry,69,73,normal,0.66,rainy,3.4,0.9,0.26,90,4,Medium,Overproduction,Use smaller refill batch
+2025-10-24,Friday,Breakfast,Steamed Dumplings,pastry,Chinese Pastry,216,165,group_tour,0.53,cloudy,5.2,2.0,0.38,45,3,High,Over-refilled during service,Reduce initial quantity
+2026-01-21,Wednesday,Breakfast,Steamed Dumplings,pastry,Chinese Pastry,192,186,normal,0.71,sunny,5.0,1.1,0.22,60,2,Medium,Demand slowed near the end,Use smaller refill batch
+2026-03-02,Monday,Dinner,Mixed Seafood,seafood,Hot Kitchen,135,123,normal,0.69,sunny,4.8,0.8,0.17,45,1,Medium,Demand slowed near the end,Reduce final refill quantity
+2026-01-27,Tuesday,Dinner,Stir-fried Vegetables,vegetable,Hot Kitchen,175,153,normal,0.5,cloudy,7.1,3.3,0.46,15,0,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-11-14,Friday,Breakfast,Mixed Seafood,seafood,Hot Kitchen,203,186,normal,0.53,rainy,11.2,4.1,0.37,30,1,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-10-10,Friday,Dinner,Mixed Seafood,seafood,Hot Kitchen,189,195,banquet,0.75,cloudy,13.3,1.1,0.08,90,0,Low,Regular consumption,Maintain current quantity
+2026-02-17,Tuesday,Lunch,Cold Cucumber Salad,cold dish,Cold Dishes,185,177,normal,0.51,cloudy,6.9,3.1,0.45,60,4,High,Low guest demand,Reduce initial quantity
+2026-03-10,Tuesday,Dinner,Cold Cucumber Salad,cold dish,Cold Dishes,211,165,group_tour,0.91,cloudy,6.4,2.1,0.33,15,2,Medium,Refilled too late in service,Use smaller refill batch
+2026-01-18,Sunday,Breakfast,Chinese Pastry Assortment,pastry,Chinese Pastry,197,202,normal,0.54,cloudy,8.6,3.2,0.37,30,4,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2026-01-26,Monday,Breakfast,Chinese Pastry Assortment,pastry,Chinese Pastry,188,213,banquet,0.69,sunny,7.5,2.2,0.29,60,3,Medium,Overproduction,Use smaller refill batch
+2026-01-24,Saturday,Breakfast,Fried Rice,staple,Hot Kitchen,116,100,normal,0.85,sunny,6.2,1.5,0.24,60,1,Medium,Demand slowed near the end,Reduce final refill quantity
+2026-02-06,Friday,Dinner,Fruit Platter,dessert,Cold Dishes,199,214,normal,0.58,sunny,9.7,4.1,0.42,60,0,High,Low guest demand,Reduce initial quantity
+2025-12-05,Friday,Breakfast,Congee Side Toppings,side dish,Cold / Prep,82,75,normal,0.88,cloudy,2.7,1.1,0.41,30,1,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-12-31,Wednesday,Dinner,Mixed Seafood,seafood,Hot Kitchen,112,120,normal,0.76,sunny,5.8,1.5,0.26,45,4,Medium,Overproduction,Use smaller refill batch
+2025-11-15,Saturday,Dinner,Roasted Chicken,meat,Hot Kitchen,191,218,normal,0.58,rainy,9.5,5.9,0.62,15,3,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-11-05,Wednesday,Breakfast,Stir-fried Vegetables,vegetable,Hot Kitchen,160,151,group_tour,0.83,sunny,4.4,0.9,0.2,60,3,Medium,Demand slowed near the end,Use smaller refill batch
+2025-10-26,Sunday,Dinner,Steamed Fish,seafood,Hot Kitchen,154,143,group_tour,0.92,rainy,8.0,2.2,0.28,60,0,Medium,Overproduction,Reduce final refill quantity
+2026-01-02,Friday,Dinner,Steamed Dumplings,pastry,Chinese Pastry,186,159,normal,0.86,cloudy,4.4,1.6,0.36,30,4,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-12-29,Monday,Breakfast,Braised Pork,meat,Hot Kitchen,177,133,normal,0.84,rainy,5.3,2.7,0.51,15,3,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-11-05,Wednesday,Lunch,Braised Pork,meat,Hot Kitchen,152,129,normal,0.5,cloudy,8.4,2.3,0.27,15,1,Medium,Refilled too late in service,Reduce final refill quantity
+2025-12-01,Monday,Dinner,Steamed Fish,seafood,Hot Kitchen,182,142,normal,0.45,sunny,7.4,1.6,0.22,15,3,Medium,Demand slowed near the end,Use smaller refill batch
+2026-01-19,Monday,Breakfast,Mixed Seafood,seafood,Hot Kitchen,86,68,normal,0.64,sunny,3.7,1.5,0.41,30,3,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-10-20,Monday,Dinner,Fruit Platter,dessert,Cold Dishes,149,154,normal,0.53,rainy,4.1,1.9,0.46,90,3,High,Low guest demand,Reduce initial quantity
+2025-10-28,Tuesday,Breakfast,Cold Cucumber Salad,cold dish,Cold Dishes,169,148,normal,0.63,cloudy,6.3,2.0,0.32,30,0,Medium,Refilled too late in service,Reduce final refill quantity
+2026-03-07,Saturday,Dinner,Congee Side Toppings,side dish,Cold / Prep,112,107,normal,0.89,rainy,4.8,2.5,0.52,15,2,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2026-01-09,Friday,Breakfast,Steamed Dumplings,pastry,Chinese Pastry,63,72,normal,0.49,rainy,1.6,0.5,0.31,60,4,Medium,Overproduction,Use smaller refill batch
+2026-01-31,Saturday,Breakfast,Steamed Dumplings,pastry,Chinese Pastry,70,78,normal,0.58,sunny,2.1,0.9,0.43,90,2,High,Low guest demand,Reduce initial quantity
+2026-01-13,Tuesday,Dinner,Steamed Dumplings,pastry,Chinese Pastry,81,70,normal,0.53,rainy,2.0,0.5,0.25,90,1,Medium,Demand slowed near the end,Reduce final refill quantity
+2025-10-19,Sunday,Dinner,Congee Side Toppings,side dish,Cold / Prep,82,91,normal,0.48,sunny,4.7,2.1,0.45,45,0,High,Low guest demand,Reduce initial quantity
+2025-10-06,Monday,Breakfast,Mixed Seafood,seafood,Hot Kitchen,148,141,group_tour,0.7,sunny,7.1,0.7,0.1,45,1,Low,Regular consumption,Maintain current quantity
+2025-12-10,Wednesday,Breakfast,Mixed Seafood,seafood,Hot Kitchen,169,145,group_tour,0.62,sunny,10.7,3.6,0.34,15,4,Medium,Refilled too late in service,Use smaller refill batch
+2025-10-17,Friday,Dinner,Fried Rice,staple,Hot Kitchen,86,95,normal,0.58,sunny,4.2,1.3,0.31,15,4,Medium,Refilled too late in service,Use smaller refill batch
+2026-01-31,Saturday,Lunch,Roasted Chicken,meat,Hot Kitchen,169,181,banquet,0.92,sunny,9.3,1.3,0.14,45,1,Low,Regular consumption,Maintain current quantity
+2025-12-23,Tuesday,Breakfast,Congee Side Toppings,side dish,Cold / Prep,73,59,normal,0.7,sunny,2.5,1.5,0.6,15,3,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-12-21,Sunday,Breakfast,Roasted Chicken,meat,Hot Kitchen,134,130,normal,0.63,sunny,8.1,2.1,0.26,45,3,Medium,Overproduction,Use smaller refill batch
+2026-02-06,Friday,Dinner,Stir-fried Vegetables,vegetable,Hot Kitchen,197,166,banquet,0.53,sunny,7.6,0.4,0.05,45,0,Low,Regular consumption,Maintain current quantity
+2026-01-07,Wednesday,Dinner,Mixed Seafood,seafood,Hot Kitchen,120,110,normal,0.71,sunny,5.5,0.5,0.09,45,1,Low,Regular consumption,Maintain current quantity
+2025-12-01,Monday,Lunch,Fruit Platter,dessert,Cold Dishes,81,79,group_tour,0.68,cloudy,3.0,1.2,0.4,15,3,High,Over-refilled during service,Avoid final refill and reduce next initial quantity
+2025-11-05,Wednesday,Lunch,Stir-fried Vegetables,vegetable,Hot Kitchen,160,164,normal,0.91,cloudy,4.6,0.7,0.15,30,2,Low,Regular consumption,Maintain current quantity
+2026-03-01,Sunday,Breakfast,Steamed Dumplings,pastry,Chinese Pastry,164,130,normal,0.68,cloudy,5.7,1.2,0.21,45,3,Medium,Demand slowed near the end,Use smaller refill batch
+2025-11-02,Sunday,Breakfast,Steamed Dumplings,pastry,Chinese Pastry,214,163,group_tour,0.86,cloudy,4.4,1.7,0.39,30,0,High,Refilled too late in service,Avoid final refill and reduce next initial quantity
+2026-01-12,Monday,Breakfast,Fruit Platter,dessert,Cold Dishes,104,79,group_tour,0.86,cloudy,2.9,0.7,0.24,30,4,Medium,Demand slowed near the end,Use smaller refill batch
+2025-11-03,Monday,Breakfast,Fried Noodles,staple,Hot Kitchen,162,145,group_tour,0.52,sunny,7.7,1.1,0.14,90,4,Low,Regular consumption,Maintain current quantity
+2025-10-22,Wednesday,Breakfast,Fried Noodles,staple,Hot Kitchen,92,72,normal,0.67,rainy,3.6,1.4,0.39,15,0,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-10-15,Wednesday,Dinner,Cold Cucumber Salad,cold dish,Cold Dishes,67,60,normal,0.65,rainy,2.3,0.6,0.26,45,1,Medium,Overproduction,Reduce final refill quantity
+2025-10-11,Saturday,Dinner,Chinese Pastry Assortment,pastry,Chinese Pastry,165,182,normal,0.6,rainy,4.9,1.6,0.33,30,3,Medium,Refilled too late in service,Use smaller refill batch
+2026-02-14,Saturday,Dinner,Stir-fried Vegetables,vegetable,Hot Kitchen,232,218,wedding,0.85,rainy,6.1,1.0,0.16,90,4,Medium,Demand slowed near the end,Use smaller refill batch
+2025-12-11,Thursday,Breakfast,Cold Cucumber Salad,cold dish,Cold Dishes,131,101,normal,0.46,sunny,3.3,2.0,0.61,30,4,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-10-17,Friday,Dinner,Stir-fried Vegetables,vegetable,Hot Kitchen,104,85,group_tour,0.63,cloudy,3.4,0.2,0.06,90,2,Low,Regular consumption,Maintain current quantity
+2026-01-01,Thursday,Dinner,Chinese Pastry Assortment,pastry,Chinese Pastry,186,179,normal,0.87,sunny,5.5,1.4,0.25,30,0,Medium,Demand slowed near the end,Reduce final refill quantity
+2025-10-08,Wednesday,Lunch,Fruit Platter,dessert,Cold Dishes,93,82,normal,0.55,rainy,4.1,1.7,0.41,15,2,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2026-02-14,Saturday,Breakfast,Roasted Chicken,meat,Hot Kitchen,85,75,normal,0.65,rainy,5.1,1.4,0.27,60,3,Medium,Overproduction,Use smaller refill batch
+2025-11-16,Sunday,Dinner,Mixed Seafood,seafood,Hot Kitchen,117,118,group_tour,0.84,rainy,5.3,0.9,0.17,30,2,Medium,Demand slowed near the end,Use smaller refill batch
+2026-02-26,Thursday,Dinner,Steamed Fish,seafood,Hot Kitchen,216,181,normal,0.61,rainy,10.8,3.4,0.31,45,1,Medium,Overproduction,Reduce final refill quantity
+2025-12-02,Tuesday,Lunch,Roasted Chicken,meat,Hot Kitchen,145,134,normal,0.86,sunny,7.6,1.1,0.14,45,0,Low,Regular consumption,Maintain current quantity
+2025-10-30,Thursday,Breakfast,Mixed Seafood,seafood,Hot Kitchen,102,112,normal,0.82,cloudy,5.9,0.5,0.08,60,4,Low,Regular consumption,Maintain current quantity
+2026-02-02,Monday,Dinner,Chinese Pastry Assortment,pastry,Chinese Pastry,78,83,group_tour,0.53,sunny,2.8,0.4,0.14,15,2,Low,Regular consumption,Maintain current quantity
+2026-01-07,Wednesday,Dinner,Cold Cucumber Salad,cold dish,Cold Dishes,217,240,normal,0.62,sunny,8.3,3.3,0.4,90,1,High,Low guest demand,Reduce initial quantity
+2025-10-28,Tuesday,Breakfast,Roasted Chicken,meat,Hot Kitchen,261,264,wedding,0.8,cloudy,13.9,3.4,0.24,90,3,Medium,Demand slowed near the end,Use smaller refill batch
+2026-02-05,Thursday,Breakfast,Cold Cucumber Salad,cold dish,Cold Dishes,220,217,normal,0.49,cloudy,7.6,4.0,0.53,45,1,High,Low guest demand,Reduce initial quantity
+2026-01-12,Monday,Lunch,Fried Rice,staple,Hot Kitchen,278,229,banquet,0.5,cloudy,10.0,2.5,0.25,15,3,Medium,Demand slowed near the end,Use smaller refill batch
+2025-11-29,Saturday,Dinner,Congee Side Toppings,side dish,Cold / Prep,81,82,normal,0.78,rainy,2.7,1.4,0.52,30,4,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2026-01-18,Sunday,Dinner,Fruit Platter,dessert,Cold Dishes,210,182,banquet,0.74,cloudy,8.2,2.6,0.32,90,0,Medium,Overproduction,Reduce final refill quantity
+2026-02-26,Thursday,Dinner,Braised Pork,meat,Hot Kitchen,102,116,normal,0.54,cloudy,4.8,3.1,0.65,15,3,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2026-03-12,Thursday,Dinner,Cold Cucumber Salad,cold dish,Cold Dishes,77,60,normal,0.91,rainy,2.4,0.8,0.33,90,2,Medium,Overproduction,Use smaller refill batch
+2026-03-11,Wednesday,Dinner,Chinese Pastry Assortment,pastry,Chinese Pastry,97,94,group_tour,0.66,sunny,4.1,1.0,0.24,15,0,Medium,Demand slowed near the end,Reduce final refill quantity
+2025-10-28,Tuesday,Dinner,Congee Side Toppings,side dish,Cold / Prep,274,209,banquet,0.58,cloudy,7.6,1.3,0.17,60,4,Medium,Demand slowed near the end,Use smaller refill batch
+2025-12-26,Friday,Breakfast,Mixed Seafood,seafood,Hot Kitchen,155,117,normal,0.91,cloudy,5.1,1.8,0.35,60,2,Medium,Overproduction,Use smaller refill batch
+2025-10-28,Tuesday,Breakfast,Stir-fried Vegetables,vegetable,Hot Kitchen,142,121,normal,0.67,rainy,4.9,0.6,0.12,60,1,Low,Regular consumption,Maintain current quantity
+2026-01-15,Thursday,Lunch,Mixed Seafood,seafood,Hot Kitchen,191,203,group_tour,0.86,cloudy,15.0,6.6,0.44,30,3,High,Over-refilled during service,Avoid final refill and reduce next initial quantity
+2026-02-25,Wednesday,Breakfast,Fried Noodles,staple,Hot Kitchen,123,93,normal,0.87,sunny,6.2,1.1,0.18,45,1,Medium,Demand slowed near the end,Reduce final refill quantity
+2026-01-29,Thursday,Lunch,Fruit Platter,dessert,Cold Dishes,121,108,normal,0.79,sunny,3.0,0.9,0.3,90,3,Medium,Overproduction,Use smaller refill batch
+2025-12-08,Monday,Dinner,Mixed Seafood,seafood,Hot Kitchen,101,110,normal,0.64,sunny,4.8,1.4,0.29,30,1,Medium,Refilled too late in service,Reduce final refill quantity
+2025-12-10,Wednesday,Lunch,Braised Pork,meat,Hot Kitchen,93,93,normal,0.45,rainy,4.1,1.7,0.41,90,2,High,Low guest demand,Reduce initial quantity
+2025-12-12,Friday,Lunch,Steamed Fish,seafood,Hot Kitchen,247,252,banquet,0.58,cloudy,11.4,2.6,0.23,15,0,Medium,Demand slowed near the end,Reduce final refill quantity
+2026-01-06,Tuesday,Dinner,Fruit Platter,dessert,Cold Dishes,87,82,normal,0.6,cloudy,2.7,0.6,0.22,45,2,Medium,Demand slowed near the end,Use smaller refill batch
+2025-12-18,Thursday,Breakfast,Stir-fried Vegetables,vegetable,Hot Kitchen,213,194,normal,0.9,sunny,6.0,2.4,0.4,60,0,High,Low guest demand,Reduce initial quantity
+2025-12-08,Monday,Lunch,Steamed Fish,seafood,Hot Kitchen,206,221,normal,0.74,sunny,13.8,5.1,0.37,60,4,High,Low guest demand,Reduce initial quantity
+2026-01-02,Friday,Lunch,Fruit Platter,dessert,Cold Dishes,106,91,group_tour,0.89,rainy,3.7,2.3,0.62,30,4,High,Over-refilled during service,Avoid final refill and reduce next initial quantity
+2025-11-28,Friday,Breakfast,Roasted Chicken,meat,Hot Kitchen,144,129,group_tour,0.66,cloudy,6.6,0.5,0.08,60,0,Low,Regular consumption,Maintain current quantity
+2026-03-01,Sunday,Dinner,Chinese Pastry Assortment,pastry,Chinese Pastry,157,151,normal,0.7,sunny,6.8,2.7,0.4,30,1,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-12-29,Monday,Dinner,Steamed Fish,seafood,Hot Kitchen,146,137,banquet,0.52,cloudy,6.3,1.3,0.21,15,0,Medium,Demand slowed near the end,Reduce final refill quantity
+2025-11-25,Tuesday,Dinner,Cold Cucumber Salad,cold dish,Cold Dishes,82,65,group_tour,0.84,cloudy,2.6,0.5,0.19,60,3,Medium,Demand slowed near the end,Use smaller refill batch
+2025-11-23,Sunday,Lunch,Mixed Seafood,seafood,Hot Kitchen,249,188,wedding,0.83,cloudy,14.5,2.3,0.16,45,1,Medium,Demand slowed near the end,Reduce final refill quantity
+2025-10-29,Wednesday,Dinner,Steamed Fish,seafood,Hot Kitchen,71,61,normal,0.48,sunny,3.9,1.2,0.31,90,4,Medium,Overproduction,Use smaller refill batch
+2025-11-06,Thursday,Lunch,Roasted Chicken,meat,Hot Kitchen,163,123,normal,0.53,sunny,8.9,2.9,0.33,15,1,Medium,Refilled too late in service,Reduce final refill quantity
+2026-01-04,Sunday,Dinner,Mixed Seafood,seafood,Hot Kitchen,125,132,group_tour,0.89,cloudy,6.9,1.9,0.28,15,0,Medium,Refilled too late in service,Reduce final refill quantity
+2025-10-08,Wednesday,Dinner,Fried Noodles,staple,Hot Kitchen,200,170,normal,0.64,cloudy,7.6,1.5,0.2,45,0,Medium,Demand slowed near the end,Reduce final refill quantity
+2025-10-28,Tuesday,Dinner,Braised Pork,meat,Hot Kitchen,167,180,normal,0.8,rainy,13.0,1.2,0.09,45,0,Low,Regular consumption,Maintain current quantity
+2025-10-30,Thursday,Breakfast,Fried Rice,staple,Hot Kitchen,111,99,normal,0.87,cloudy,5.0,1.8,0.36,60,4,High,Low guest demand,Reduce initial quantity
+2026-02-03,Tuesday,Breakfast,Roasted Chicken,meat,Hot Kitchen,88,95,normal,0.49,rainy,4.2,0.8,0.19,90,0,Medium,Demand slowed near the end,Reduce final refill quantity
+2025-12-07,Sunday,Breakfast,Braised Pork,meat,Hot Kitchen,72,56,normal,0.58,cloudy,3.1,1.3,0.42,45,2,High,Low guest demand,Reduce initial quantity
+2025-11-01,Saturday,Breakfast,Steamed Dumplings,pastry,Chinese Pastry,103,90,normal,0.78,sunny,3.4,0.9,0.26,15,2,Medium,Refilled too late in service,Use smaller refill batch
+2025-11-01,Saturday,Lunch,Steamed Fish,seafood,Hot Kitchen,265,267,wedding,0.87,cloudy,11.1,1.0,0.09,30,0,Low,Regular consumption,Maintain current quantity
+2026-03-03,Tuesday,Dinner,Fried Rice,staple,Hot Kitchen,151,150,group_tour,0.76,sunny,7.7,2.9,0.38,60,1,High,Overproduction,Reduce initial quantity
+2025-10-31,Friday,Lunch,Steamed Fish,seafood,Hot Kitchen,63,65,normal,0.78,cloudy,3.5,0.4,0.11,90,4,Low,Regular consumption,Maintain current quantity
+2025-12-28,Sunday,Dinner,Fruit Platter,dessert,Cold Dishes,123,115,group_tour,0.5,rainy,4.1,1.8,0.44,90,1,High,Overproduction,Reduce initial quantity
+2025-10-05,Sunday,Breakfast,Braised Pork,meat,Hot Kitchen,102,79,normal,0.88,cloudy,4.0,1.4,0.35,15,2,Medium,Refilled too late in service,Use smaller refill batch
+2026-01-07,Wednesday,Breakfast,Steamed Fish,seafood,Hot Kitchen,174,136,normal,0.85,cloudy,7.0,1.3,0.19,15,3,Medium,Demand slowed near the end,Use smaller refill batch
+2026-02-22,Sunday,Breakfast,Fruit Platter,dessert,Cold Dishes,137,151,group_tour,0.93,rainy,5.7,1.2,0.21,45,3,Medium,Demand slowed near the end,Use smaller refill batch
+2025-11-29,Saturday,Lunch,Fried Rice,staple,Hot Kitchen,153,158,normal,0.75,rainy,11.5,1.9,0.17,15,1,Medium,Demand slowed near the end,Reduce final refill quantity
+2025-12-16,Tuesday,Dinner,Fruit Platter,dessert,Cold Dishes,102,96,normal,0.47,sunny,3.3,1.3,0.39,15,3,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-11-27,Thursday,Breakfast,Fried Rice,staple,Hot Kitchen,71,79,group_tour,0.83,sunny,3.8,1.1,0.29,60,3,Medium,Overproduction,Use smaller refill batch
+2026-02-09,Monday,Lunch,Cold Cucumber Salad,cold dish,Cold Dishes,170,184,normal,0.47,rainy,7.4,2.0,0.27,90,1,Medium,Overproduction,Reduce final refill quantity
+2026-03-05,Thursday,Lunch,Chinese Pastry Assortment,pastry,Chinese Pastry,215,240,normal,0.66,cloudy,6.5,1.4,0.22,45,2,Medium,Demand slowed near the end,Use smaller refill batch
+2025-11-06,Thursday,Lunch,Cold Cucumber Salad,cold dish,Cold Dishes,200,218,normal,0.71,rainy,9.6,2.1,0.22,30,1,Medium,Demand slowed near the end,Reduce final refill quantity
+2025-12-30,Tuesday,Breakfast,Braised Pork,meat,Hot Kitchen,199,192,wedding,0.94,rainy,10.4,2.3,0.22,90,2,Medium,Demand slowed near the end,Use smaller refill batch
+2026-02-26,Thursday,Dinner,Braised Pork,meat,Hot Kitchen,196,169,normal,0.9,rainy,8.5,1.1,0.13,15,4,Low,Regular consumption,Maintain current quantity
+2025-10-17,Friday,Lunch,Stir-fried Vegetables,vegetable,Hot Kitchen,124,100,group_tour,0.94,sunny,5.3,0.3,0.06,90,1,Low,Regular consumption,Maintain current quantity
+2026-01-26,Monday,Dinner,Steamed Dumplings,pastry,Chinese Pastry,196,165,banquet,0.73,rainy,6.0,2.8,0.47,15,2,High,Refilled too late in service,Avoid final refill and reduce next initial quantity
+2025-12-22,Monday,Breakfast,Fruit Platter,dessert,Cold Dishes,173,187,normal,0.55,cloudy,6.2,2.8,0.45,90,2,High,Low guest demand,Reduce initial quantity
+2025-11-21,Friday,Lunch,Congee Side Toppings,side dish,Cold / Prep,104,108,normal,0.49,rainy,4.0,1.3,0.33,90,2,Medium,Overproduction,Use smaller refill batch
+2025-10-04,Saturday,Lunch,Roasted Chicken,meat,Hot Kitchen,142,140,group_tour,0.47,sunny,6.9,2.3,0.33,60,2,Medium,Overproduction,Use smaller refill batch
+2026-02-20,Friday,Breakfast,Roasted Chicken,meat,Hot Kitchen,107,102,group_tour,0.71,cloudy,4.3,0.8,0.19,90,4,Medium,Demand slowed near the end,Use smaller refill batch
+2025-12-31,Wednesday,Breakfast,Stir-fried Vegetables,vegetable,Hot Kitchen,115,129,group_tour,0.63,cloudy,4.2,0.8,0.19,15,4,Medium,Demand slowed near the end,Use smaller refill batch
+2025-12-03,Wednesday,Dinner,Braised Pork,meat,Hot Kitchen,220,245,banquet,0.93,sunny,10.5,0.6,0.06,45,4,Low,Regular consumption,Maintain current quantity
+2026-02-12,Thursday,Dinner,Roasted Chicken,meat,Hot Kitchen,135,149,group_tour,0.69,cloudy,9.6,3.7,0.39,30,0,High,Refilled too late in service,Avoid final refill and reduce next initial quantity
+2026-02-17,Tuesday,Breakfast,Fruit Platter,dessert,Cold Dishes,114,124,normal,0.79,sunny,3.5,1.4,0.4,60,4,High,Low guest demand,Reduce initial quantity
+2025-11-11,Tuesday,Lunch,Fried Noodles,staple,Hot Kitchen,73,59,group_tour,0.49,sunny,3.2,0.6,0.19,45,1,Medium,Demand slowed near the end,Reduce final refill quantity
+2026-01-26,Monday,Lunch,Braised Pork,meat,Hot Kitchen,90,86,normal,0.64,sunny,4.5,1.6,0.36,15,4,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2026-02-08,Sunday,Lunch,Steamed Dumplings,pastry,Chinese Pastry,132,139,group_tour,0.75,cloudy,4.8,0.5,0.1,60,0,Low,Regular consumption,Maintain current quantity
+2025-11-28,Friday,Dinner,Cold Cucumber Salad,cold dish,Cold Dishes,96,83,normal,0.6,rainy,3.4,1.4,0.41,15,2,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-10-04,Saturday,Dinner,Chinese Pastry Assortment,pastry,Chinese Pastry,138,115,normal,0.92,rainy,4.1,1.5,0.37,60,1,High,Low guest demand,Reduce initial quantity
+2026-02-11,Wednesday,Breakfast,Cold Cucumber Salad,cold dish,Cold Dishes,109,86,normal,0.87,rainy,3.2,0.9,0.28,90,0,Medium,Overproduction,Reduce final refill quantity
+2025-12-16,Tuesday,Breakfast,Braised Pork,meat,Hot Kitchen,184,208,normal,0.81,sunny,12.8,1.9,0.15,15,1,Low,Regular consumption,Maintain current quantity
+2025-10-20,Monday,Lunch,Stir-fried Vegetables,vegetable,Hot Kitchen,138,141,normal,0.76,cloudy,6.3,0.7,0.11,60,2,Low,Regular consumption,Maintain current quantity
+2025-12-22,Monday,Breakfast,Stir-fried Vegetables,vegetable,Hot Kitchen,152,122,group_tour,0.67,rainy,4.7,0.8,0.17,60,3,Medium,Demand slowed near the end,Use smaller refill batch
+2025-12-20,Saturday,Dinner,Fried Rice,staple,Hot Kitchen,131,143,normal,0.75,rainy,9.6,4.5,0.47,15,2,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2026-02-09,Monday,Breakfast,Braised Pork,meat,Hot Kitchen,211,176,group_tour,0.65,rainy,11.5,3.2,0.28,60,4,Medium,Overproduction,Use smaller refill batch
+2025-11-10,Monday,Lunch,Roasted Chicken,meat,Hot Kitchen,134,107,normal,0.82,rainy,5.1,0.3,0.06,90,2,Low,Regular consumption,Maintain current quantity
+2025-12-03,Wednesday,Dinner,Chinese Pastry Assortment,pastry,Chinese Pastry,100,82,normal,0.52,rainy,2.6,1.1,0.42,60,1,High,Low guest demand,Reduce initial quantity
+2026-02-04,Wednesday,Breakfast,Stir-fried Vegetables,vegetable,Hot Kitchen,112,107,normal,0.47,sunny,3.1,0.8,0.26,15,3,Medium,Refilled too late in service,Use smaller refill batch
+2026-02-13,Friday,Lunch,Braised Pork,meat,Hot Kitchen,205,168,group_tour,0.74,cloudy,8.1,1.1,0.14,90,0,Low,Regular consumption,Maintain current quantity
+2025-11-29,Saturday,Lunch,Fruit Platter,dessert,Cold Dishes,183,202,normal,0.69,cloudy,11.6,3.4,0.29,30,3,Medium,Refilled too late in service,Use smaller refill batch
+2025-11-10,Monday,Breakfast,Cold Cucumber Salad,cold dish,Cold Dishes,118,108,normal,0.86,rainy,3.7,0.6,0.16,60,3,Medium,Demand slowed near the end,Use smaller refill batch
+2026-01-16,Friday,Breakfast,Fried Noodles,staple,Hot Kitchen,94,94,normal,0.75,rainy,6.8,1.0,0.15,30,0,Low,Regular consumption,Maintain current quantity
+2025-11-18,Tuesday,Lunch,Fruit Platter,dessert,Cold Dishes,132,149,normal,0.77,rainy,6.5,1.4,0.22,60,3,Medium,Demand slowed near the end,Use smaller refill batch
+2026-03-05,Thursday,Dinner,Cold Cucumber Salad,cold dish,Cold Dishes,190,162,group_tour,0.76,sunny,5.3,1.6,0.3,90,3,Medium,Overproduction,Use smaller refill batch
+2026-01-09,Friday,Breakfast,Cold Cucumber Salad,cold dish,Cold Dishes,189,193,normal,0.88,rainy,6.9,3.1,0.45,60,1,High,Low guest demand,Reduce initial quantity
+2026-02-16,Monday,Breakfast,Fruit Platter,dessert,Cold Dishes,214,206,normal,0.52,rainy,12.2,5.2,0.43,90,3,High,Low guest demand,Reduce initial quantity
+2026-01-20,Tuesday,Lunch,Stir-fried Vegetables,vegetable,Hot Kitchen,207,163,group_tour,0.63,cloudy,7.0,1.0,0.14,15,1,Low,Regular consumption,Maintain current quantity
+2026-02-19,Thursday,Lunch,Steamed Fish,seafood,Hot Kitchen,61,59,normal,0.82,rainy,3.4,0.7,0.21,45,1,Medium,Demand slowed near the end,Reduce final refill quantity
+2025-10-30,Thursday,Lunch,Cold Cucumber Salad,cold dish,Cold Dishes,197,181,group_tour,0.58,cloudy,6.8,2.8,0.41,30,3,High,Over-refilled during service,Avoid final refill and reduce next initial quantity
+2026-01-05,Monday,Dinner,Fruit Platter,dessert,Cold Dishes,161,168,normal,0.74,cloudy,5.5,2.4,0.44,60,1,High,Low guest demand,Reduce initial quantity
+2025-10-28,Tuesday,Dinner,Stir-fried Vegetables,vegetable,Hot Kitchen,217,223,normal,0.85,cloudy,5.7,1.9,0.33,15,0,Medium,Refilled too late in service,Reduce final refill quantity
+2026-01-31,Saturday,Lunch,Chinese Pastry Assortment,pastry,Chinese Pastry,80,79,normal,0.56,cloudy,3.2,1.1,0.34,90,3,Medium,Overproduction,Use smaller refill batch
+2026-03-04,Wednesday,Breakfast,Fried Noodles,staple,Hot Kitchen,192,165,normal,0.46,cloudy,12.0,5.9,0.49,30,4,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-10-03,Friday,Breakfast,Cold Cucumber Salad,cold dish,Cold Dishes,242,238,wedding,0.63,cloudy,10.5,3.5,0.33,15,0,Medium,Refilled too late in service,Reduce final refill quantity
+2026-02-23,Monday,Lunch,Chinese Pastry Assortment,pastry,Chinese Pastry,109,101,normal,0.56,cloudy,2.7,0.9,0.33,60,1,Medium,Overproduction,Reduce final refill quantity
+2026-02-08,Sunday,Lunch,Congee Side Toppings,side dish,Cold / Prep,259,266,banquet,0.93,rainy,8.8,4.0,0.45,45,1,High,Overproduction,Reduce initial quantity
+2026-01-28,Wednesday,Breakfast,Chinese Pastry Assortment,pastry,Chinese Pastry,116,118,normal,0.48,cloudy,4.3,1.5,0.35,90,2,Medium,Overproduction,Use smaller refill batch
+2025-12-09,Tuesday,Lunch,Stir-fried Vegetables,vegetable,Hot Kitchen,147,114,normal,0.82,rainy,3.3,1.5,0.45,30,2,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-11-20,Thursday,Dinner,Fried Rice,staple,Hot Kitchen,127,105,normal,0.57,rainy,6.2,1.0,0.16,45,4,Medium,Demand slowed near the end,Use smaller refill batch
+2025-10-23,Thursday,Dinner,Braised Pork,meat,Hot Kitchen,198,224,normal,0.83,sunny,9.9,3.6,0.36,60,2,High,Low guest demand,Reduce initial quantity
+2026-02-27,Friday,Lunch,Congee Side Toppings,side dish,Cold / Prep,116,121,normal,0.59,rainy,6.0,2.9,0.48,60,3,High,Low guest demand,Reduce initial quantity
+2025-11-16,Sunday,Breakfast,Fried Rice,staple,Hot Kitchen,62,46,group_tour,0.61,cloudy,3.0,0.8,0.27,45,2,Medium,Overproduction,Use smaller refill batch
+2025-12-08,Monday,Dinner,Cold Cucumber Salad,cold dish,Cold Dishes,216,191,normal,0.69,cloudy,8.6,2.0,0.23,45,3,Medium,Demand slowed near the end,Use smaller refill batch
+2026-01-26,Monday,Dinner,Cold Cucumber Salad,cold dish,Cold Dishes,85,88,normal,0.79,rainy,3.1,1.0,0.32,30,3,Medium,Refilled too late in service,Use smaller refill batch
+2025-10-05,Sunday,Lunch,Cold Cucumber Salad,cold dish,Cold Dishes,140,148,normal,0.71,rainy,6.7,2.4,0.36,15,4,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-12-07,Sunday,Dinner,Fried Rice,staple,Hot Kitchen,152,135,normal,0.62,rainy,7.8,2.3,0.29,15,2,Medium,Refilled too late in service,Use smaller refill batch
+2026-03-07,Saturday,Dinner,Stir-fried Vegetables,vegetable,Hot Kitchen,132,117,normal,0.72,rainy,3.8,1.0,0.26,15,3,Medium,Refilled too late in service,Use smaller refill batch
+2025-11-09,Sunday,Dinner,Cold Cucumber Salad,cold dish,Cold Dishes,216,211,group_tour,0.66,cloudy,5.5,1.0,0.18,45,1,Medium,Demand slowed near the end,Reduce final refill quantity
+2025-12-16,Tuesday,Lunch,Mixed Seafood,seafood,Hot Kitchen,173,183,normal,0.59,cloudy,8.7,2.3,0.26,60,4,Medium,Overproduction,Use smaller refill batch
+2025-10-08,Wednesday,Dinner,Cold Cucumber Salad,cold dish,Cold Dishes,80,66,normal,0.92,cloudy,2.2,0.4,0.18,90,3,Medium,Demand slowed near the end,Use smaller refill batch
+2026-02-14,Saturday,Breakfast,Steamed Dumplings,pastry,Chinese Pastry,159,138,normal,0.49,sunny,4.9,1.5,0.31,30,1,Medium,Refilled too late in service,Reduce final refill quantity
+2025-10-11,Saturday,Lunch,Braised Pork,meat,Hot Kitchen,278,312,banquet,0.88,cloudy,14.6,5.3,0.36,30,4,High,Over-refilled during service,Avoid final refill and reduce next initial quantity
+2026-02-24,Tuesday,Dinner,Steamed Fish,seafood,Hot Kitchen,148,139,normal,0.6,rainy,7.6,1.5,0.2,45,2,Medium,Demand slowed near the end,Use smaller refill batch
+2025-11-11,Tuesday,Breakfast,Congee Side Toppings,side dish,Cold / Prep,180,173,normal,0.62,sunny,6.2,0.7,0.11,45,3,Low,Regular consumption,Maintain current quantity
+2025-12-16,Tuesday,Breakfast,Chinese Pastry Assortment,pastry,Chinese Pastry,165,181,group_tour,0.64,rainy,5.6,0.7,0.12,60,3,Low,Regular consumption,Maintain current quantity
+2025-10-23,Thursday,Dinner,Steamed Fish,seafood,Hot Kitchen,129,111,normal,0.85,rainy,5.9,2.5,0.42,30,3,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-12-16,Tuesday,Dinner,Steamed Dumplings,pastry,Chinese Pastry,219,207,normal,0.59,cloudy,6.4,1.6,0.25,15,4,Medium,Demand slowed near the end,Use smaller refill batch
+2026-01-23,Friday,Breakfast,Mixed Seafood,seafood,Hot Kitchen,115,101,normal,0.46,sunny,6.6,2.3,0.35,60,2,Medium,Overproduction,Use smaller refill batch
+2025-10-23,Thursday,Breakfast,Cold Cucumber Salad,cold dish,Cold Dishes,180,148,normal,0.49,cloudy,4.2,1.7,0.4,15,3,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2026-01-24,Saturday,Dinner,Stir-fried Vegetables,vegetable,Hot Kitchen,180,182,wedding,0.68,sunny,7.1,0.7,0.1,45,2,Low,Regular consumption,Maintain current quantity
+2025-10-13,Monday,Dinner,Mixed Seafood,seafood,Hot Kitchen,136,112,normal,0.69,cloudy,5.7,0.8,0.14,15,1,Low,Regular consumption,Maintain current quantity
+2026-01-22,Thursday,Breakfast,Roasted Chicken,meat,Hot Kitchen,161,171,normal,0.74,cloudy,10.5,1.1,0.1,90,3,Low,Regular consumption,Maintain current quantity
+2025-10-25,Saturday,Breakfast,Stir-fried Vegetables,vegetable,Hot Kitchen,220,170,normal,0.76,rainy,5.2,0.9,0.17,15,4,Medium,Demand slowed near the end,Use smaller refill batch
+2026-02-22,Sunday,Lunch,Braised Pork,meat,Hot Kitchen,65,66,group_tour,0.82,cloudy,3.4,1.0,0.29,60,0,Medium,Overproduction,Reduce final refill quantity
+2026-02-23,Monday,Dinner,Congee Side Toppings,side dish,Cold / Prep,199,176,group_tour,0.73,sunny,5.5,1.0,0.18,90,4,Medium,Demand slowed near the end,Use smaller refill batch
+2026-01-26,Monday,Lunch,Congee Side Toppings,side dish,Cold / Prep,189,170,normal,0.45,cloudy,6.0,2.0,0.33,90,2,Medium,Overproduction,Use smaller refill batch
+2026-02-17,Tuesday,Breakfast,Steamed Fish,seafood,Hot Kitchen,99,98,normal,0.83,cloudy,6.1,1.4,0.23,15,0,Medium,Demand slowed near the end,Reduce final refill quantity
+2025-10-20,Monday,Breakfast,Fried Noodles,staple,Hot Kitchen,184,152,normal,0.55,sunny,11.2,4.0,0.36,60,3,High,Low guest demand,Reduce initial quantity
+2025-12-07,Sunday,Lunch,Fried Noodles,staple,Hot Kitchen,113,114,normal,0.49,rainy,5.6,2.6,0.46,15,3,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2026-01-05,Monday,Breakfast,Mixed Seafood,seafood,Hot Kitchen,78,84,group_tour,0.71,cloudy,5.3,0.9,0.17,15,4,Medium,Demand slowed near the end,Use smaller refill batch
+2026-01-09,Friday,Breakfast,Stir-fried Vegetables,vegetable,Hot Kitchen,105,102,normal,0.74,sunny,4.0,1.1,0.28,45,4,Medium,Overproduction,Use smaller refill batch
+2026-01-20,Tuesday,Breakfast,Steamed Dumplings,pastry,Chinese Pastry,146,147,group_tour,0.65,rainy,5.4,1.3,0.24,45,2,Medium,Demand slowed near the end,Use smaller refill batch
+2025-12-25,Thursday,Lunch,Roasted Chicken,meat,Hot Kitchen,142,141,group_tour,0.86,cloudy,6.8,1.2,0.18,45,4,Medium,Demand slowed near the end,Use smaller refill batch
+2026-01-26,Monday,Lunch,Fried Rice,staple,Hot Kitchen,212,160,normal,0.94,sunny,11.9,4.7,0.39,45,0,High,Low guest demand,Reduce initial quantity
+2025-11-26,Wednesday,Breakfast,Roasted Chicken,meat,Hot Kitchen,201,191,group_tour,0.86,rainy,10.2,2.2,0.22,15,0,Medium,Demand slowed near the end,Reduce final refill quantity
+2025-11-11,Tuesday,Lunch,Cold Cucumber Salad,cold dish,Cold Dishes,125,134,normal,0.57,rainy,6.3,3.0,0.48,15,1,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2026-02-27,Friday,Dinner,Steamed Dumplings,pastry,Chinese Pastry,207,186,normal,0.82,sunny,7.2,2.6,0.36,45,2,High,Low guest demand,Reduce initial quantity
+2026-01-22,Thursday,Breakfast,Steamed Fish,seafood,Hot Kitchen,245,245,banquet,0.82,sunny,10.7,3.1,0.29,15,4,Medium,Refilled too late in service,Use smaller refill batch
+2025-12-25,Thursday,Dinner,Fruit Platter,dessert,Cold Dishes,160,182,normal,0.79,sunny,6.0,1.8,0.3,30,0,Medium,Refilled too late in service,Reduce final refill quantity
+2025-11-09,Sunday,Lunch,Cold Cucumber Salad,cold dish,Cold Dishes,200,181,normal,0.82,rainy,9.0,2.3,0.26,30,1,Medium,Refilled too late in service,Reduce final refill quantity
+2026-01-12,Monday,Dinner,Braised Pork,meat,Hot Kitchen,194,164,normal,0.95,rainy,12.3,1.0,0.08,90,2,Low,Regular consumption,Maintain current quantity
+2026-01-16,Friday,Lunch,Steamed Fish,seafood,Hot Kitchen,66,69,normal,0.62,cloudy,4.3,0.4,0.09,90,3,Low,Regular consumption,Maintain current quantity
+2025-10-14,Tuesday,Breakfast,Stir-fried Vegetables,vegetable,Hot Kitchen,81,64,group_tour,0.83,sunny,3.7,0.2,0.05,45,1,Low,Regular consumption,Maintain current quantity
+2025-10-31,Friday,Lunch,Congee Side Toppings,side dish,Cold / Prep,197,164,normal,0.55,cloudy,7.2,3.6,0.5,60,4,High,Low guest demand,Reduce initial quantity
+2025-10-07,Tuesday,Dinner,Steamed Fish,seafood,Hot Kitchen,140,120,banquet,0.47,rainy,5.9,1.6,0.27,60,0,Medium,Overproduction,Reduce final refill quantity
+2025-10-05,Sunday,Lunch,Steamed Dumplings,pastry,Chinese Pastry,152,166,group_tour,0.88,rainy,9.4,4.8,0.51,30,3,High,Over-refilled during service,Avoid final refill and reduce next initial quantity
+2025-10-28,Tuesday,Lunch,Roasted Chicken,meat,Hot Kitchen,204,231,banquet,0.49,rainy,12.9,4.8,0.37,30,0,High,Refilled too late in service,Avoid final refill and reduce next initial quantity
+2025-12-20,Saturday,Lunch,Roasted Chicken,meat,Hot Kitchen,150,133,normal,0.46,sunny,9.2,4.1,0.45,45,4,High,Low guest demand,Reduce initial quantity
+2026-01-10,Saturday,Dinner,Fried Noodles,staple,Hot Kitchen,207,162,banquet,0.53,sunny,10.6,3.4,0.32,30,4,Medium,Refilled too late in service,Use smaller refill batch
+2026-01-20,Tuesday,Dinner,Congee Side Toppings,side dish,Cold / Prep,95,93,normal,0.52,rainy,2.8,1.5,0.54,45,1,High,Low guest demand,Reduce initial quantity
+2026-01-21,Wednesday,Dinner,Cold Cucumber Salad,cold dish,Cold Dishes,300,338,banquet,0.61,sunny,14.9,6.3,0.42,15,1,High,Refilled too late in service,Avoid final refill and reduce next initial quantity
+2026-01-16,Friday,Lunch,Steamed Fish,seafood,Hot Kitchen,130,105,normal,0.92,rainy,6.0,1.6,0.27,90,0,Medium,Overproduction,Reduce final refill quantity
+2026-03-07,Saturday,Dinner,Chinese Pastry Assortment,pastry,Chinese Pastry,66,58,normal,0.57,sunny,1.9,0.6,0.32,90,4,Medium,Overproduction,Use smaller refill batch
+2025-11-19,Wednesday,Lunch,Steamed Fish,seafood,Hot Kitchen,68,62,normal,0.55,sunny,3.1,1.9,0.61,30,3,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-10-19,Sunday,Lunch,Cold Cucumber Salad,cold dish,Cold Dishes,238,219,banquet,0.79,cloudy,8.0,2.4,0.3,45,3,Medium,Overproduction,Use smaller refill batch
+2026-02-26,Thursday,Dinner,Chinese Pastry Assortment,pastry,Chinese Pastry,193,153,normal,0.84,rainy,6.8,1.6,0.24,90,1,Medium,Demand slowed near the end,Reduce final refill quantity
+2025-10-13,Monday,Lunch,Fruit Platter,dessert,Cold Dishes,108,93,normal,0.93,rainy,3.1,0.5,0.16,60,2,Medium,Demand slowed near the end,Use smaller refill batch
+2025-10-16,Thursday,Dinner,Mixed Seafood,seafood,Hot Kitchen,216,224,banquet,0.86,cloudy,16.3,4.6,0.28,30,4,Medium,Refilled too late in service,Use smaller refill batch
+2025-10-09,Thursday,Lunch,Cold Cucumber Salad,cold dish,Cold Dishes,176,138,normal,0.9,rainy,6.5,1.1,0.17,15,1,Medium,Demand slowed near the end,Reduce final refill quantity
+2026-01-03,Saturday,Dinner,Steamed Dumplings,pastry,Chinese Pastry,190,189,group_tour,0.85,rainy,8.3,3.1,0.37,30,0,High,Refilled too late in service,Avoid final refill and reduce next initial quantity
+2026-02-24,Tuesday,Breakfast,Braised Pork,meat,Hot Kitchen,73,67,normal,0.54,sunny,4.3,1.4,0.33,45,3,Medium,Overproduction,Use smaller refill batch
+2025-11-05,Wednesday,Breakfast,Stir-fried Vegetables,vegetable,Hot Kitchen,187,204,normal,0.46,cloudy,5.0,1.8,0.36,30,3,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2026-01-24,Saturday,Dinner,Steamed Dumplings,pastry,Chinese Pastry,131,130,normal,0.89,sunny,5.3,0.5,0.09,30,0,Low,Regular consumption,Maintain current quantity
+2025-12-31,Wednesday,Breakfast,Fried Noodles,staple,Hot Kitchen,282,248,banquet,0.74,rainy,14.9,4.2,0.28,30,1,Medium,Refilled too late in service,Reduce final refill quantity
+2026-03-08,Sunday,Dinner,Braised Pork,meat,Hot Kitchen,105,119,group_tour,0.84,rainy,5.5,1.8,0.33,15,0,Medium,Refilled too late in service,Reduce final refill quantity
+2025-12-24,Wednesday,Lunch,Roasted Chicken,meat,Hot Kitchen,76,65,group_tour,0.87,cloudy,4.6,1.1,0.24,45,2,Medium,Demand slowed near the end,Use smaller refill batch
+2026-02-14,Saturday,Dinner,Stir-fried Vegetables,vegetable,Hot Kitchen,195,223,normal,0.5,sunny,8.8,3.0,0.34,60,2,Medium,Overproduction,Use smaller refill batch
+2026-02-14,Saturday,Dinner,Chinese Pastry Assortment,pastry,Chinese Pastry,187,179,normal,0.76,sunny,5.9,0.8,0.14,90,1,Low,Regular consumption,Maintain current quantity
+2025-12-16,Tuesday,Breakfast,Stir-fried Vegetables,vegetable,Hot Kitchen,90,94,normal,0.76,cloudy,4.2,0.3,0.07,60,3,Low,Regular consumption,Maintain current quantity
+2025-12-31,Wednesday,Dinner,Fruit Platter,dessert,Cold Dishes,132,112,normal,0.55,rainy,4.5,1.9,0.42,45,4,High,Low guest demand,Reduce initial quantity
+2026-01-12,Monday,Dinner,Mixed Seafood,seafood,Hot Kitchen,109,96,normal,0.87,sunny,6.0,2.3,0.38,15,3,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2026-03-12,Thursday,Dinner,Fried Rice,staple,Hot Kitchen,202,218,banquet,0.84,cloudy,14.0,3.3,0.24,90,2,Medium,Demand slowed near the end,Use smaller refill batch
+2025-11-25,Tuesday,Dinner,Chinese Pastry Assortment,pastry,Chinese Pastry,98,84,normal,0.48,cloudy,5.0,2.3,0.46,30,4,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-12-20,Saturday,Lunch,Mixed Seafood,seafood,Hot Kitchen,187,205,group_tour,0.66,cloudy,13.1,4.0,0.31,30,2,Medium,Refilled too late in service,Use smaller refill batch
+2026-01-06,Tuesday,Breakfast,Fried Noodles,staple,Hot Kitchen,277,224,banquet,0.7,cloudy,13.1,4.2,0.32,45,4,Medium,Overproduction,Use smaller refill batch
+2025-11-08,Saturday,Dinner,Steamed Dumplings,pastry,Chinese Pastry,69,64,group_tour,0.55,sunny,2.1,0.8,0.38,45,0,High,Overproduction,Reduce initial quantity
+2026-03-04,Wednesday,Lunch,Steamed Dumplings,pastry,Chinese Pastry,139,105,normal,0.5,sunny,3.6,0.7,0.19,45,1,Medium,Demand slowed near the end,Reduce final refill quantity
+2026-02-16,Monday,Lunch,Roasted Chicken,meat,Hot Kitchen,130,103,group_tour,0.52,cloudy,4.6,1.1,0.24,30,0,Medium,Demand slowed near the end,Reduce final refill quantity
+2026-02-20,Friday,Lunch,Roasted Chicken,meat,Hot Kitchen,206,174,normal,0.85,rainy,12.4,2.5,0.2,90,2,Medium,Demand slowed near the end,Use smaller refill batch
+2025-11-05,Wednesday,Lunch,Fried Noodles,staple,Hot Kitchen,114,104,banquet,0.5,sunny,6.9,1.8,0.26,60,4,Medium,Overproduction,Use smaller refill batch
+2025-12-21,Sunday,Breakfast,Roasted Chicken,meat,Hot Kitchen,80,91,group_tour,0.85,rainy,4.3,1.4,0.33,15,1,Medium,Refilled too late in service,Reduce final refill quantity
+2026-01-30,Friday,Lunch,Steamed Dumplings,pastry,Chinese Pastry,179,167,normal,0.81,rainy,3.8,1.4,0.37,45,4,High,Low guest demand,Reduce initial quantity
+2026-01-11,Sunday,Dinner,Cold Cucumber Salad,cold dish,Cold Dishes,231,218,banquet,0.84,cloudy,8.8,3.5,0.4,60,3,High,Over-refilled during service,Reduce initial quantity
+2025-12-31,Wednesday,Dinner,Chinese Pastry Assortment,pastry,Chinese Pastry,87,76,normal,0.65,sunny,2.9,0.6,0.21,60,4,Medium,Demand slowed near the end,Use smaller refill batch
+2026-01-16,Friday,Dinner,Stir-fried Vegetables,vegetable,Hot Kitchen,158,122,normal,0.94,sunny,5.6,1.4,0.25,60,3,Medium,Demand slowed near the end,Use smaller refill batch
+2025-12-29,Monday,Dinner,Fruit Platter,dessert,Cold Dishes,206,223,normal,0.78,rainy,10.3,1.5,0.15,90,2,Low,Regular consumption,Maintain current quantity
+2025-12-20,Saturday,Breakfast,Steamed Fish,seafood,Hot Kitchen,157,138,normal,0.86,rainy,6.0,2.2,0.37,30,1,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-10-03,Friday,Dinner,Cold Cucumber Salad,cold dish,Cold Dishes,217,212,normal,0.6,rainy,10.8,3.9,0.36,45,2,High,Low guest demand,Reduce initial quantity
+2025-12-19,Friday,Dinner,Steamed Fish,seafood,Hot Kitchen,240,238,wedding,0.95,cloudy,14.2,4.3,0.3,15,2,Medium,Refilled too late in service,Use smaller refill batch
+2025-10-16,Thursday,Dinner,Fried Noodles,staple,Hot Kitchen,132,144,normal,0.5,cloudy,9.5,3.7,0.39,45,3,High,Low guest demand,Reduce initial quantity
+2026-01-22,Thursday,Breakfast,Fruit Platter,dessert,Cold Dishes,202,182,group_tour,0.52,cloudy,6.4,3.1,0.48,45,1,High,Overproduction,Reduce initial quantity
+2025-11-06,Thursday,Breakfast,Fried Noodles,staple,Hot Kitchen,184,186,normal,0.81,sunny,7.2,2.5,0.35,60,1,Medium,Overproduction,Reduce final refill quantity
+2026-03-06,Friday,Dinner,Steamed Fish,seafood,Hot Kitchen,175,158,normal,0.66,rainy,9.7,2.2,0.23,90,0,Medium,Demand slowed near the end,Reduce final refill quantity
+2025-12-02,Tuesday,Dinner,Mixed Seafood,seafood,Hot Kitchen,68,77,normal,0.74,rainy,4.3,0.9,0.21,90,0,Medium,Demand slowed near the end,Reduce final refill quantity
+2025-10-23,Thursday,Dinner,Cold Cucumber Salad,cold dish,Cold Dishes,80,76,group_tour,0.68,cloudy,2.5,1.0,0.4,90,0,High,Overproduction,Reduce initial quantity
+2025-10-16,Thursday,Dinner,Roasted Chicken,meat,Hot Kitchen,180,176,group_tour,0.68,cloudy,9.9,1.1,0.11,45,2,Low,Regular consumption,Maintain current quantity
+2026-03-04,Wednesday,Lunch,Mixed Seafood,seafood,Hot Kitchen,181,177,group_tour,0.58,rainy,9.7,0.6,0.06,90,2,Low,Regular consumption,Maintain current quantity
+2026-02-04,Wednesday,Breakfast,Steamed Dumplings,pastry,Chinese Pastry,217,187,normal,0.58,cloudy,4.0,0.9,0.23,90,0,Medium,Demand slowed near the end,Reduce final refill quantity
+2025-11-10,Monday,Lunch,Braised Pork,meat,Hot Kitchen,120,113,normal,0.58,sunny,5.9,3.8,0.64,15,2,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2026-02-06,Friday,Lunch,Steamed Fish,seafood,Hot Kitchen,102,85,normal,0.81,cloudy,3.9,0.7,0.18,15,2,Medium,Demand slowed near the end,Use smaller refill batch
+2026-02-01,Sunday,Lunch,Congee Side Toppings,side dish,Cold / Prep,159,149,group_tour,0.57,rainy,8.6,3.8,0.44,45,0,High,Overproduction,Reduce initial quantity
+2025-12-22,Monday,Dinner,Fruit Platter,dessert,Cold Dishes,235,233,wedding,0.91,sunny,6.6,2.5,0.38,45,2,High,Overproduction,Reduce initial quantity
+2026-03-01,Sunday,Lunch,Steamed Fish,seafood,Hot Kitchen,210,222,group_tour,0.57,rainy,12.6,3.0,0.24,45,1,Medium,Demand slowed near the end,Reduce final refill quantity
+2025-10-05,Sunday,Breakfast,Steamed Dumplings,pastry,Chinese Pastry,174,154,normal,0.5,rainy,4.2,1.4,0.33,15,0,Medium,Refilled too late in service,Reduce final refill quantity
+2026-03-04,Wednesday,Breakfast,Braised Pork,meat,Hot Kitchen,131,143,wedding,0.51,rainy,10.0,5.0,0.5,30,4,High,Over-refilled during service,Avoid final refill and reduce next initial quantity
+2025-12-06,Saturday,Lunch,Congee Side Toppings,side dish,Cold / Prep,130,137,group_tour,0.77,sunny,5.4,0.7,0.13,45,2,Low,Regular consumption,Maintain current quantity
+2025-10-18,Saturday,Lunch,Steamed Fish,seafood,Hot Kitchen,127,104,normal,0.58,sunny,8.2,2.5,0.3,90,1,Medium,Overproduction,Reduce final refill quantity
+2025-10-30,Thursday,Dinner,Cold Cucumber Salad,cold dish,Cold Dishes,87,97,group_tour,0.76,sunny,2.7,0.8,0.3,15,0,Medium,Refilled too late in service,Reduce final refill quantity
+2026-01-25,Sunday,Lunch,Fried Noodles,staple,Hot Kitchen,69,70,normal,0.45,rainy,4.6,0.8,0.17,90,3,Medium,Demand slowed near the end,Use smaller refill batch
+2026-02-05,Thursday,Lunch,Fried Rice,staple,Hot Kitchen,77,74,normal,0.84,rainy,6.1,2.6,0.43,15,3,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2026-01-02,Friday,Dinner,Roasted Chicken,meat,Hot Kitchen,83,74,normal,0.77,sunny,3.2,0.9,0.28,45,3,Medium,Overproduction,Use smaller refill batch
+2025-11-17,Monday,Breakfast,Fruit Platter,dessert,Cold Dishes,202,202,wedding,0.55,rainy,5.8,1.5,0.26,30,3,Medium,Refilled too late in service,Use smaller refill batch
+2026-03-03,Tuesday,Lunch,Stir-fried Vegetables,vegetable,Hot Kitchen,187,180,normal,0.77,rainy,5.3,0.9,0.17,15,0,Medium,Demand slowed near the end,Reduce final refill quantity
+2025-12-28,Sunday,Breakfast,Mixed Seafood,seafood,Hot Kitchen,193,180,normal,0.85,sunny,10.0,1.3,0.13,90,1,Low,Regular consumption,Maintain current quantity
+2025-10-21,Tuesday,Dinner,Fried Noodles,staple,Hot Kitchen,218,167,normal,0.46,rainy,7.3,3.6,0.49,15,1,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-10-27,Monday,Dinner,Fried Rice,staple,Hot Kitchen,87,69,normal,0.48,rainy,3.7,1.2,0.32,30,0,Medium,Refilled too late in service,Reduce final refill quantity
+2026-01-13,Tuesday,Breakfast,Roasted Chicken,meat,Hot Kitchen,199,210,wedding,0.72,rainy,10.3,1.0,0.1,45,0,Low,Regular consumption,Maintain current quantity
+2026-01-17,Saturday,Dinner,Cold Cucumber Salad,cold dish,Cold Dishes,208,159,normal,0.67,sunny,9.3,3.2,0.34,60,4,Medium,Overproduction,Use smaller refill batch
+2026-02-04,Wednesday,Breakfast,Steamed Dumplings,pastry,Chinese Pastry,211,233,normal,0.8,sunny,10.2,2.6,0.25,30,3,Medium,Demand slowed near the end,Use smaller refill batch
+2026-02-13,Friday,Lunch,Fried Rice,staple,Hot Kitchen,69,68,normal,0.76,sunny,3.4,0.6,0.18,45,0,Medium,Demand slowed near the end,Reduce final refill quantity
+2025-10-04,Saturday,Breakfast,Fruit Platter,dessert,Cold Dishes,218,195,normal,0.94,rainy,6.3,2.6,0.41,60,1,High,Low guest demand,Reduce initial quantity
+2025-12-12,Friday,Breakfast,Fried Noodles,staple,Hot Kitchen,181,171,normal,0.79,sunny,12.6,1.9,0.15,45,0,Low,Regular consumption,Maintain current quantity
+2026-01-22,Thursday,Lunch,Congee Side Toppings,side dish,Cold / Prep,73,81,normal,0.47,cloudy,4.4,1.4,0.32,90,3,Medium,Overproduction,Use smaller refill batch
+2026-03-03,Tuesday,Lunch,Chinese Pastry Assortment,pastry,Chinese Pastry,143,120,normal,0.79,rainy,4.4,1.6,0.36,60,1,High,Low guest demand,Reduce initial quantity
+2026-01-07,Wednesday,Breakfast,Stir-fried Vegetables,vegetable,Hot Kitchen,171,138,normal,0.48,cloudy,3.9,0.9,0.23,45,3,Medium,Demand slowed near the end,Use smaller refill batch
+2026-01-02,Friday,Breakfast,Congee Side Toppings,side dish,Cold / Prep,75,64,normal,0.8,sunny,3.1,1.4,0.45,30,3,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-11-12,Wednesday,Dinner,Braised Pork,meat,Hot Kitchen,159,145,banquet,0.94,rainy,8.6,1.9,0.22,90,1,Medium,Demand slowed near the end,Reduce final refill quantity
+2026-01-29,Thursday,Breakfast,Congee Side Toppings,side dish,Cold / Prep,123,108,group_tour,0.89,rainy,5.0,3.0,0.6,30,4,High,Over-refilled during service,Avoid final refill and reduce next initial quantity
+2025-10-14,Tuesday,Lunch,Fried Noodles,staple,Hot Kitchen,195,177,group_tour,0.47,rainy,8.8,2.0,0.23,60,0,Medium,Demand slowed near the end,Reduce final refill quantity
+2025-10-24,Friday,Breakfast,Fruit Platter,dessert,Cold Dishes,93,83,group_tour,0.92,cloudy,4.4,1.4,0.32,60,0,Medium,Overproduction,Reduce final refill quantity
+2026-01-28,Wednesday,Dinner,Chinese Pastry Assortment,pastry,Chinese Pastry,95,104,normal,0.68,cloudy,4.5,1.3,0.29,60,2,Medium,Overproduction,Use smaller refill batch
+2025-10-03,Friday,Breakfast,Braised Pork,meat,Hot Kitchen,68,59,normal,0.62,rainy,3.0,0.8,0.27,90,4,Medium,Overproduction,Use smaller refill batch
+2025-11-25,Tuesday,Breakfast,Braised Pork,meat,Hot Kitchen,74,70,normal,0.82,cloudy,3.0,0.6,0.2,15,0,Medium,Demand slowed near the end,Reduce final refill quantity
+2026-01-30,Friday,Breakfast,Chinese Pastry Assortment,pastry,Chinese Pastry,77,75,normal,0.77,sunny,1.8,0.7,0.39,30,2,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2026-02-28,Saturday,Breakfast,Mixed Seafood,seafood,Hot Kitchen,128,121,group_tour,0.61,sunny,5.9,1.2,0.2,45,2,Medium,Demand slowed near the end,Use smaller refill batch
+2026-02-08,Sunday,Breakfast,Fruit Platter,dessert,Cold Dishes,196,217,normal,0.79,rainy,7.3,3.1,0.42,30,0,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-10-23,Thursday,Breakfast,Steamed Fish,seafood,Hot Kitchen,130,103,normal,0.5,sunny,6.0,2.6,0.43,90,1,High,Low guest demand,Reduce initial quantity
+2026-01-17,Saturday,Dinner,Braised Pork,meat,Hot Kitchen,205,177,banquet,0.62,cloudy,13.7,3.8,0.28,90,1,Medium,Overproduction,Reduce final refill quantity
+2026-01-16,Friday,Lunch,Chinese Pastry Assortment,pastry,Chinese Pastry,195,211,group_tour,0.69,cloudy,6.8,0.7,0.1,45,1,Low,Regular consumption,Maintain current quantity
+2025-12-08,Monday,Lunch,Stir-fried Vegetables,vegetable,Hot Kitchen,72,58,normal,0.83,cloudy,2.9,1.1,0.38,30,4,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-11-16,Sunday,Dinner,Mixed Seafood,seafood,Hot Kitchen,124,142,banquet,0.53,sunny,7.3,1.9,0.26,30,2,Medium,Refilled too late in service,Use smaller refill batch
+2025-12-23,Tuesday,Breakfast,Roasted Chicken,meat,Hot Kitchen,196,170,normal,0.94,rainy,7.4,4.1,0.55,30,3,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-11-11,Tuesday,Dinner,Fried Noodles,staple,Hot Kitchen,135,126,normal,0.62,rainy,8.7,4.1,0.47,30,4,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2026-01-24,Saturday,Dinner,Roasted Chicken,meat,Hot Kitchen,95,97,normal,0.9,cloudy,5.5,1.5,0.27,30,4,Medium,Refilled too late in service,Use smaller refill batch
+2025-10-17,Friday,Dinner,Chinese Pastry Assortment,pastry,Chinese Pastry,131,108,normal,0.56,rainy,5.8,1.7,0.29,90,0,Medium,Overproduction,Reduce final refill quantity
+2026-03-06,Friday,Dinner,Chinese Pastry Assortment,pastry,Chinese Pastry,181,162,banquet,0.63,rainy,5.4,2.1,0.39,45,2,High,Overproduction,Reduce initial quantity
+2026-02-23,Monday,Breakfast,Steamed Dumplings,pastry,Chinese Pastry,166,177,group_tour,0.82,cloudy,8.3,0.8,0.1,60,3,Low,Regular consumption,Maintain current quantity
+2026-03-02,Monday,Breakfast,Chinese Pastry Assortment,pastry,Chinese Pastry,194,222,normal,0.69,cloudy,12.8,2.4,0.19,15,3,Medium,Demand slowed near the end,Use smaller refill batch
+2025-12-11,Thursday,Breakfast,Steamed Fish,seafood,Hot Kitchen,95,78,normal,0.73,rainy,3.4,1.5,0.44,15,3,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2026-03-01,Sunday,Lunch,Congee Side Toppings,side dish,Cold / Prep,60,48,normal,0.56,cloudy,2.3,1.4,0.61,15,3,High,Low guest demand,Avoid final refill and reduce next initial quantity
+2025-12-04,Thursday,Breakfast,Fried Noodles,staple,Hot Kitchen,77,76,group_tour,0.95,cloudy,4.4,1.2,0.27,45,3,Medium,Overproduction,Use smaller refill batch
+2026-02-01,Sunday,Breakfast,Mixed Seafood,seafood,Hot Kitchen,126,102,normal,0.74,rainy,6.7,0.7,0.1,45,1,Low,Regular consumption,Maintain current quantity
+2025-12-11,Thursday,Lunch,Roasted Chicken,meat,Hot Kitchen,134,128,normal,0.47,cloudy,5.7,1.9,0.33,15,1,Medium,Refilled too late in service,Reduce final refill quantity
