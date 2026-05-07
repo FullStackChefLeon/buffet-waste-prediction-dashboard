@@ -1,5 +1,16 @@
 # Buffet Food Waste Prediction & Production Planning Dashboard
 
+## Quick Links
+
+- **Project Brief PDF:** [reports/project_brief.pdf](reports/project_brief.pdf)
+- **Main App:** [app/streamlit_app.py](app/streamlit_app.py)
+- **Dataset:** [data/buffet_waste_sample.csv](data/buffet_waste_sample.csv)
+- **Data Dictionary:** [data/data_dictionary.md](data/data_dictionary.md)
+- **Model Metrics:** [reports/high_waste_risk_model_metrics.txt](reports/high_waste_risk_model_metrics.txt)
+
+---
+
+
 
 ## Dashboard Preview
 
