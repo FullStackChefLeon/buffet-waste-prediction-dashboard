@@ -2,6 +2,7 @@
 
 ## Quick Links
 
+- **Live Demo:** [https://buffet-waste-prediction-dashboard.streamlit.app/](https://buffet-waste-prediction-dashboard.streamlit.app/)
 - **Project Brief PDF:** [reports/project_brief.pdf](reports/project_brief.pdf)
 - **Main App:** [app/streamlit_app.py](app/streamlit_app.py)
 - **Dataset:** [data/buffet_waste_sample.csv](data/buffet_waste_sample.csv)
